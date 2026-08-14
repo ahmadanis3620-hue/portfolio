@@ -1,0 +1,67 @@
+{
+ "Nvidia": [
+  "nvidia",
+  "wd5",
+  "NVIDIAExternalCareerSite"
+ ],
+ "CVS Health": [
+  "cvshealth",
+  "wd1",
+  "CVS_Health_Careers"
+ ],
+ "Target": [
+  "target",
+  "wd5",
+  "targetcareers"
+ ],
+ "Dell Technologies": [
+  "dell",
+  "wd1",
+  "External"
+ ],
+ "HP": [
+  "hp",
+  "wd5",
+  "ExternalCareerSite"
+ ],
+ "Intel": [
+  "intel",
+  "wd1",
+  "External"
+ ],
+ "Pfizer": [
+  "pfizer",
+  "wd1",
+  "PfizerCareers"
+ ],
+ "Comcast": [
+  "comcast",
+  "wd5",
+  "Comcast_Careers"
+ ],
+ "Citigroup": [
+  "citi",
+  "wd5",
+  "2"
+ ],
+ "Freddie Mac": [
+  "freddiemac",
+  "wd5",
+  "External"
+ ],
+ "Morgan Stanley": [
+  "ms",
+  "wd5",
+  "External"
+ ],
+ "ConocoPhillips": [
+  "conocophillips",
+  "wd1",
+  "External"
+ ],
+ "Travelers": [
+  "travelers",
+  "wd5",
+  "External"
+ ]
+}

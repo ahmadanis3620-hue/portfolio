@@ -1,0 +1,132 @@
+{
+ "UnitedHealth Group": {
+  "radancy": [
+   "radancy"
+  ]
+ },
+ "Exxon Mobil": {
+  "successf": [
+   "com"
+  ]
+ },
+ "Bank of America": {
+  "workday": [
+   "ghr"
+  ],
+  "avature": [
+   "bac",
+   "sandboxbac"
+  ]
+ },
+ "Ford Motor": {
+  "radancy": [
+   "radancy"
+  ]
+ },
+ "Phillips 66": {
+  "successf": [
+   "com"
+  ]
+ },
+ "StoneX Group": {},
+ "AT&T": {
+  "workday": [
+   "att"
+  ],
+  "radancy": [
+   "radancy"
+  ]
+ },
+ "Valero Energy": {},
+ "Progressive": {},
+ "Energy Transfer": {},
+ "Albertsons": {
+  "oracle_host": [
+   "eofd.fa.us6.oraclecloud.com"
+  ],
+  "oracle_site": [
+   "CX_1001"
+  ]
+ },
+ "Archer Daniels Midland": {},
+ "MetLife": {
+  "avature": [
+   "metlife"
+  ]
+ },
+ "Lockheed Martin": {
+  "avature": [
+   "lockheedmartin"
+  ],
+  "radancy": [
+   "radancy"
+  ]
+ },
+ "New York Life Insurance": {
+  "successf": [
+   "com"
+  ]
+ },
+ "Delta Air Lines": {},
+ "Publix Super Markets": {},
+ "TD Synnex": {
+  "phenom_api": [
+   "phenompeople"
+  ]
+ },
+ "AbbVie": {},
+ "Performance Food Group": {},
+ "United Airlines Holdings": {
+  "phenom_api": [
+   "phenompeople"
+  ]
+ },
+ "Charter Communications": {
+  "radancy": [
+   "radancy"
+  ]
+ },
+ "American Airlines Group": {},
+ "Enterprise Products Partners": {},
+ "Ingram Micro Holding": {},
+ "Liberty Mutual Insurance Group": {
+  "icims": [
+   "internal-libertymutual"
+  ]
+ },
+ "IBM": {},
+ "Goldman Sachs Group": {},
+ "Uber Technologies": {
+  "oracle_host": [
+   "iaziqy.fa.ocs.oraclecloud.com"
+  ]
+ },
+ "Meta Platforms": {},
+ "Galaxy Digital": {
+  "greenhouse": [
+   "galaxydigitalservices"
+  ]
+ },
+ "Berkshire Hathaway": {},
+ "American Express": {
+  "oracle_host": [
+   "egug.fa.us2.oraclecloud.com"
+  ],
+  "eightfold": [
+   "aexp"
+  ]
+ },
+ "Apple": {},
+ "Alphabet (Google)": {},
+ "Tesla": {},
+ "Microsoft": {
+  "eightfold": [
+   "app"
+  ]
+ },
+ "Costco Wholesale": {
+  "icims": [
+   "www"
+  ]
+ }
+}
