@@ -1,0 +1,853 @@
+[
+ {
+  "file": "01_Amazon_Business_Analyst_II_Network_Balance_and_Equipm.docx",
+  "company": "Amazon",
+  "title": "Business Analyst II, Network Balance and Equipment Optimization (NBEO)",
+  "location": "Bellevue, Washington, USA",
+  "start_date": "2026-08-14",
+  "url": "https://www.amazon.jobs/en/jobs/10502383/business-analyst-ii-network-balance-and-equipment-optimization-nbeo",
+  "source": "amazon.jobs",
+  "rank": 1,
+  "families": [
+   "data",
+   "supply",
+   "finance"
+  ],
+  "scores": {
+   "data": 28,
+   "supply": 10,
+   "finance": 10,
+   "tech": 7,
+   "sdlc": 6,
+   "stats": 5,
+   "health": 5
+  }
+ },
+ {
+  "file": "02_CVS_Health_Business_Analyst_Regulatory_Reporting_Solution.docx",
+  "company": "CVS Health",
+  "title": "Business Analyst, Regulatory Reporting Solutions (Remote)",
+  "location": "AZ - Work from home",
+  "start_date": "2026-08-14",
+  "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Work-from-home/Business-Analyst--Regulatory-Reporting-Solutions--Remote-_R0935742",
+  "source": "Workday",
+  "rank": 6,
+  "families": [
+   "data",
+   "health",
+   "sdlc"
+  ],
+  "scores": {
+   "data": 19,
+   "health": 18,
+   "sdlc": 9,
+   "gov": 8,
+   "finance": 6,
+   "supply": 5,
+   "tech": 1,
+   "cloud": 1
+  }
+ },
+ {
+  "file": "03_Morgan_Stanley_Principal_Technical_Business_Analyst.docx",
+  "company": "Morgan Stanley",
+  "title": "Principal, Technical Business Analyst",
+  "location": "New York, New York, United States of America",
+  "start_date": "2026-08-14",
+  "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Lead-Business-Analyst_PT-JR041640-1",
+  "source": "Workday",
+  "rank": 39,
+  "families": [
+   "gov",
+   "sdlc",
+   "tech"
+  ],
+  "scores": {
+   "gov": 18,
+   "sdlc": 17,
+   "tech": 11,
+   "finance": 7,
+   "data": 3,
+   "stats": 1
+  }
+ },
+ {
+  "file": "04_Morgan_Stanley_Junior_Data_Analyst.docx",
+  "company": "Morgan Stanley",
+  "title": "Junior Data Analyst",
+  "location": "Dallas, Texas, United States of America",
+  "start_date": "2026-08-14",
+  "url": "https://ms.wd5.myworkdayjobs.com/External/job/Dallas-Texas-United-States-of-America/Data-Analyst_PT-JR040220",
+  "source": "Workday",
+  "rank": 39,
+  "families": [
+   "data",
+   "finance",
+   "gov"
+  ],
+  "scores": {
+   "data": 20,
+   "finance": 8,
+   "gov": 7,
+   "sdlc": 3,
+   "tech": 2
+  }
+ },
+ {
+  "file": "05_GuideWell_Mutual_Holdi_Associate_Health_Business_Analyst_Nautilus_Pro.docx",
+  "company": "GuideWell Mutual Holding",
+  "title": "Associate Health Business Analyst - Nautilus Program",
+  "location": "Jacksonville, FL, United States",
+  "start_date": "2026-08-14",
+  "url": "https://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com",
+  "source": "Oracle Cloud",
+  "rank": 140,
+  "families": [
+   "health",
+   "data",
+   "stats"
+  ],
+  "scores": {
+   "health": 19,
+   "data": 4,
+   "stats": 4,
+   "sdlc": 2,
+   "finance": 2,
+   "tech": 1,
+   "cloud": 1
+  }
+ },
+ {
+  "file": "06_Cardinal_Health_Business_Analyst.docx",
+  "company": "Cardinal Health",
+  "title": "Business Analyst",
+  "location": "US-Nationwide-FIELD",
+  "start_date": "2026-08-13",
+  "url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/Business-Analyst_20185208-2",
+  "source": "Workday",
+  "rank": 15,
+  "families": [
+   "sdlc",
+   "health",
+   "tech"
+  ],
+  "scores": {
+   "sdlc": 30,
+   "health": 12,
+   "tech": 9,
+   "supply": 3,
+   "data": 2,
+   "gov": 2,
+   "stats": 2,
+   "finance": 1
+  }
+ },
+ {
+  "file": "07_Citigroup_Lead_IT_Business_Analyst.docx",
+  "company": "Citigroup",
+  "title": "Lead IT Business Analyst",
+  "location": "Jacksonville Florida United States",
+  "start_date": "2026-08-13",
+  "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Lead-IT-Business-Analyst_26985716",
+  "source": "Workday",
+  "rank": 24,
+  "families": [
+   "tech",
+   "gov",
+   "sdlc"
+  ],
+  "scores": {
+   "tech": 13,
+   "gov": 6,
+   "sdlc": 3,
+   "cloud": 3,
+   "data": 2,
+   "health": 1
+  }
+ },
+ {
+  "file": "08_Johnson_Johnson_Business_Analyst_Customer_Success_Shockwave_Me.docx",
+  "company": "Johnson & Johnson",
+  "title": "Business Analyst - Customer Success - Shockwave Medical",
+  "location": "Santa Clara, California, United States of America",
+  "start_date": "2026-08-13",
+  "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Business-Analyst---Customer-Success---Shockwave-Medical_R-081115-1",
+  "source": "Workday",
+  "rank": 45,
+  "families": [
+   "health",
+   "supply",
+   "data"
+  ],
+  "scores": {
+   "health": 20,
+   "supply": 11,
+   "data": 8,
+   "sdlc": 7,
+   "finance": 5,
+   "gov": 4,
+   "tech": 2,
+   "stats": 1
+  }
+ },
+ {
+  "file": "09_RTX_Data_Analyst_II_Hybrid_Aguadilla_PR.docx",
+  "company": "RTX",
+  "title": "Data Analyst II (Hybrid - Aguadilla, PR)",
+  "location": "US-PR-AGUADILLA-110 ~ Rd 110 N Km 28.8 ~ RD110",
+  "start_date": "2026-08-13",
+  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Data-Analyst-II--Hybrid---Aguadilla--PR-_01841221",
+  "source": "Workday",
+  "rank": 49,
+  "families": [
+   "data",
+   "sdlc",
+   "tech"
+  ],
+  "scores": {
+   "data": 16,
+   "sdlc": 10,
+   "tech": 9,
+   "gov": 5,
+   "stats": 5,
+   "supply": 4,
+   "cloud": 2
+  }
+ },
+ {
+  "file": "10_Albertsons_Lead_Financial_Business_Analyst.docx",
+  "company": "Albertsons",
+  "title": "Lead Financial Business Analyst",
+  "location": "Pleasanton, CA, United States",
+  "start_date": "2026-08-13",
+  "url": "https://careers.albertsons.com/",
+  "source": "Oracle Cloud",
+  "rank": 57,
+  "families": [
+   "finance",
+   "data",
+   "stats"
+  ],
+  "scores": {
+   "finance": 33,
+   "data": 13,
+   "stats": 10,
+   "tech": 6,
+   "sdlc": 5,
+   "gov": 4,
+   "supply": 4,
+   "health": 3
+  }
+ },
+ {
+  "file": "11_General_Dynamics_SNOW_Data_Analyst_TS_SCI_w_Poly.docx",
+  "company": "General Dynamics",
+  "title": "SNOW Data Analyst -  TS/SCI w/Poly",
+  "location": "USA MD Annapolis Junction",
+  "start_date": "2026-08-13",
+  "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Annapolis-Junction/SNOW-Data-Analyst----TS-SCI-w-Poly_RQ226401-1",
+  "source": "Workday",
+  "rank": 91,
+  "families": [
+   "data",
+   "stats",
+   "health"
+  ],
+  "scores": {
+   "data": 17,
+   "stats": 7,
+   "health": 7,
+   "sdlc": 2,
+   "tech": 1,
+   "cloud": 1,
+   "supply": 1
+  }
+ },
+ {
+  "file": "12_General_Dynamics_Senior_Strategic_Business_Analyst_Cloud_Expert.docx",
+  "company": "General Dynamics",
+  "title": "Senior Strategic Business Analyst - Cloud Expertise",
+  "location": "Any Location / Remote",
+  "start_date": "2026-08-13",
+  "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Strategic-Business-Analyst---Cloud-Expertise_RQ226088",
+  "source": "Workday",
+  "rank": 91,
+  "families": [
+   "sdlc",
+   "tech",
+   "cloud"
+  ],
+  "scores": {
+   "sdlc": 16,
+   "tech": 12,
+   "cloud": 10,
+   "stats": 6,
+   "data": 5,
+   "supply": 4,
+   "health": 3,
+   "gov": 2,
+   "finance": 1
+  }
+ },
+ {
+  "file": "13_Waste_Management_Business_Analyst_III.docx",
+  "company": "Waste Management",
+  "title": "Business Analyst III",
+  "location": "Windsor, CT, United States",
+  "start_date": "2026-08-13",
+  "url": "https://emcm.fa.us2.oraclecloud.com",
+  "source": "Oracle Cloud",
+  "rank": 179,
+  "families": [
+   "sdlc",
+   "data",
+   "stats"
+  ],
+  "scores": {
+   "sdlc": 6,
+   "data": 5,
+   "stats": 2,
+   "supply": 2,
+   "tech": 1,
+   "finance": 1,
+   "health": 1
+  }
+ },
+ {
+  "file": "14_JPMorgan_Chase_AWM_Product_Owner_Business_Analyst.docx",
+  "company": "JPMorgan Chase",
+  "title": "AWM:Product Owner / Business Analyst",
+  "location": "Jersey City, NJ, United States",
+  "start_date": "2026-08-12",
+  "url": "https://careers.jpmorgan.com/us/en/jobs",
+  "source": "Oracle Cloud",
+  "rank": 12,
+  "families": [
+   "sdlc",
+   "tech",
+   "data"
+  ],
+  "scores": {
+   "sdlc": 15,
+   "tech": 13,
+   "data": 9,
+   "supply": 4,
+   "gov": 1
+  }
+ },
+ {
+  "file": "15_Cardinal_Health_Senior_Data_Analyst.docx",
+  "company": "Cardinal Health",
+  "title": "Senior Data Analyst",
+  "location": "US-Nationwide-FIELD",
+  "start_date": "2026-08-12",
+  "url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/Senior-Data-Analyst_20185427",
+  "source": "Workday",
+  "rank": 15,
+  "families": [
+   "data",
+   "health",
+   "sdlc"
+  ],
+  "scores": {
+   "data": 19,
+   "health": 12,
+   "sdlc": 11,
+   "finance": 9,
+   "stats": 6,
+   "tech": 3,
+   "cloud": 3,
+   "supply": 2,
+   "gov": 1
+  }
+ },
+ {
+  "file": "16_Cardinal_Health_Business_Analyst.docx",
+  "company": "Cardinal Health",
+  "title": "Business Analyst",
+  "location": "US-Nationwide-FIELD",
+  "start_date": "2026-08-12",
+  "url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/Business-Analyst_20185404",
+  "source": "Workday",
+  "rank": 15,
+  "families": [
+   "sdlc",
+   "tech",
+   "health"
+  ],
+  "scores": {
+   "sdlc": 19,
+   "tech": 13,
+   "health": 10,
+   "data": 3,
+   "supply": 2,
+   "gov": 1,
+   "stats": 1
+  }
+ },
+ {
+  "file": "17_Cardinal_Health_Consultant_IT_Product_Implementation_Business.docx",
+  "company": "Cardinal Health",
+  "title": "Consultant, IT Product/Implementation Business Analyst",
+  "location": "US-Nationwide-FIELD",
+  "start_date": "2026-08-12",
+  "url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/Consultant--IT-Product-Implementation-Business-Analyst_20185405",
+  "source": "Workday",
+  "rank": 15,
+  "families": [
+   "sdlc",
+   "health",
+   "tech"
+  ],
+  "scores": {
+   "sdlc": 32,
+   "health": 11,
+   "tech": 10,
+   "data": 2,
+   "gov": 2,
+   "stats": 2,
+   "supply": 2,
+   "finance": 1
+  }
+ },
+ {
+  "file": "18_General_Motors_Safety_Field_Investigations_Data_Analyst.docx",
+  "company": "General Motors",
+  "title": "Safety Field Investigations - Data Analyst",
+  "location": "Warren, Michigan, United States of America",
+  "start_date": "2026-08-12",
+  "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Safety-Field-Investigations---Data-Analyst_JR-202615306-1",
+  "source": "Workday",
+  "rank": 23,
+  "families": [
+   "data",
+   "tech",
+   "cloud"
+  ],
+  "scores": {
+   "data": 28,
+   "tech": 12,
+   "cloud": 6,
+   "stats": 4,
+   "supply": 3,
+   "finance": 3,
+   "sdlc": 2,
+   "gov": 2,
+   "health": 1
+  }
+ },
+ {
+  "file": "19_Capital_One_Financial_Senior_Business_Analyst_Credit_Loss_Forecast.docx",
+  "company": "Capital One Financial",
+  "title": "Senior Business Analyst, Credit Loss Forecast",
+  "location": "McLean, VA",
+  "start_date": "2026-08-12",
+  "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Business-Analyst--Liquidity--Market--and-Capital-Risk-Oversight_R243495-1",
+  "source": "Workday",
+  "rank": 63,
+  "families": [
+   "tech",
+   "stats",
+   "finance"
+  ],
+  "scores": {
+   "tech": 21,
+   "stats": 17,
+   "finance": 11,
+   "data": 6,
+   "health": 4,
+   "cloud": 3,
+   "supply": 2,
+   "sdlc": 1,
+   "gov": 1
+  }
+ },
+ {
+  "file": "20_Abbott_Laboratories_OpEx_Data_Analyst_I.docx",
+  "company": "Abbott Laboratories",
+  "title": "OpEx Data Analyst I",
+  "location": "United States - Minnesota - Plymouth",
+  "start_date": "2026-08-12",
+  "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Plymouth/OpEx-Data-Analyst-I_31158893",
+  "source": "Workday",
+  "rank": 107,
+  "families": [
+   "health",
+   "data",
+   "cloud"
+  ],
+  "scores": {
+   "health": 19,
+   "data": 12,
+   "cloud": 10,
+   "tech": 8,
+   "gov": 7,
+   "stats": 5,
+   "finance": 3,
+   "sdlc": 2,
+   "supply": 2
+  }
+ },
+ {
+  "file": "21_U_S_Bancorp_Marketing_Data_Analyst.docx",
+  "company": "U.S. Bancorp",
+  "title": "Marketing Data Analyst",
+  "location": "Atlanta, GA",
+  "start_date": "2026-08-12",
+  "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Atlanta-GA/Marketing-Data-Analyst_2026-0024398",
+  "source": "Workday",
+  "rank": 110,
+  "families": [
+   "finance",
+   "health",
+   "tech"
+  ],
+  "scores": {
+   "finance": 6,
+   "health": 6,
+   "tech": 5,
+   "sdlc": 2,
+   "data": 1,
+   "cloud": 1
+  }
+ },
+ {
+  "file": "22_Leidos_Holdings_Data_Analyst.docx",
+  "company": "Leidos Holdings",
+  "title": "Data Analyst",
+  "location": "Huntsville, AL",
+  "start_date": "2026-08-12",
+  "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Data-Analyst_R-00187699",
+  "source": "Workday",
+  "rank": 260,
+  "families": [
+   "data",
+   "tech",
+   "stats"
+  ],
+  "scores": {
+   "data": 13,
+   "tech": 8,
+   "stats": 8,
+   "sdlc": 5,
+   "supply": 4,
+   "cloud": 1
+  }
+ },
+ {
+  "file": "23_Markel_Group_Senior_Lead_Business_Analyst_Oracle_EPM_Report.docx",
+  "company": "Markel Group",
+  "title": "Senior/Lead Business Analyst, Oracle EPM & Reporting",
+  "location": "Richmond, VA",
+  "start_date": "2026-08-12",
+  "url": "https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Richmond-VA/Senior-Lead-Business-Analyst--Oracle-EPM---Reporting_R0023624",
+  "source": "Workday",
+  "rank": 270,
+  "families": [
+   "finance",
+   "data",
+   "sdlc"
+  ],
+  "scores": {
+   "finance": 35,
+   "data": 34,
+   "sdlc": 10,
+   "tech": 8,
+   "cloud": 6,
+   "gov": 3,
+   "health": 3,
+   "supply": 1
+  }
+ },
+ {
+  "file": "24_Kyndryl_Holdings_Data_Analyst.docx",
+  "company": "Kyndryl Holdings",
+  "title": "Data Analyst",
+  "location": "Research Triangle Park, NC, USA",
+  "start_date": "2026-08-12",
+  "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Research-Triangle-Park-NC-USA/Data-Analyst_R-57844-1",
+  "source": "Workday",
+  "rank": 300,
+  "families": [
+   "data",
+   "tech",
+   "sdlc"
+  ],
+  "scores": {
+   "data": 19,
+   "tech": 6,
+   "sdlc": 4,
+   "cloud": 4,
+   "stats": 3,
+   "health": 3,
+   "finance": 1
+  }
+ },
+ {
+  "file": "25_Kyndryl_Holdings_Business_Analyst.docx",
+  "company": "Kyndryl Holdings",
+  "title": "Business Analyst",
+  "location": "Research Triangle Park, NC, USA",
+  "start_date": "2026-08-12",
+  "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Research-Triangle-Park-NC-USA/Business-Analyst_R-63846",
+  "source": "Workday",
+  "rank": 300,
+  "families": [
+   "sdlc",
+   "tech",
+   "data"
+  ],
+  "scores": {
+   "sdlc": 10,
+   "tech": 6,
+   "data": 1,
+   "health": 1
+  }
+ },
+ {
+  "file": "26_Amazon_Communications_Business_Analyst_Operations_Int.docx",
+  "company": "Amazon",
+  "title": "Communications Business Analyst, Operations Internal Communications",
+  "location": "Seattle, Washington, USA",
+  "start_date": "2026-08-11",
+  "url": "https://www.amazon.jobs/en/jobs/10499284/communications-business-analyst-operations-internal-communications",
+  "source": "amazon.jobs",
+  "rank": 1,
+  "families": [
+   "data",
+   "tech",
+   "supply"
+  ],
+  "scores": {
+   "data": 33,
+   "tech": 7,
+   "supply": 7,
+   "sdlc": 6,
+   "cloud": 4,
+   "stats": 2,
+   "health": 2
+  }
+ },
+ {
+  "file": "27_Amazon_Business_Analyst_III_AMZ10666414.docx",
+  "company": "Amazon",
+  "title": "Business Analyst III - AMZ10666414",
+  "location": "San Diego, California, USA",
+  "start_date": "2026-08-11",
+  "url": "https://www.amazon.jobs/en/jobs/10498619/business-analyst-iii-amz10666414",
+  "source": "amazon.jobs",
+  "rank": 1,
+  "families": [
+   "data",
+   "stats",
+   "sdlc"
+  ],
+  "scores": {
+   "data": 19,
+   "stats": 18,
+   "sdlc": 5,
+   "tech": 5,
+   "supply": 4,
+   "finance": 4,
+   "gov": 1,
+   "cloud": 1
+  }
+ },
+ {
+  "file": "28_Amazon_Business_Analyst_Fuse_Billing_Operations.docx",
+  "company": "Amazon",
+  "title": "Business Analyst, Fuse Billing Operations",
+  "location": "Seattle, Washington, USA",
+  "start_date": "2026-08-11",
+  "url": "https://www.amazon.jobs/en/jobs/10498893/business-analyst-fuse-billing-operations",
+  "source": "amazon.jobs",
+  "rank": 1,
+  "families": [
+   "data",
+   "supply",
+   "finance"
+  ],
+  "scores": {
+   "data": 15,
+   "supply": 6,
+   "finance": 6,
+   "sdlc": 4,
+   "health": 3,
+   "gov": 2,
+   "tech": 2,
+   "cloud": 2,
+   "stats": 1
+  }
+ },
+ {
+  "file": "29_Amazon_Senior_Business_Analyst_Seller_External_Relati.docx",
+  "company": "Amazon",
+  "title": "Senior Business Analyst, Seller External Relations",
+  "location": "Seattle, Washington, USA",
+  "start_date": "2026-08-11",
+  "url": "https://www.amazon.jobs/en/jobs/10498849/senior-business-analyst-seller-external-relations",
+  "source": "amazon.jobs",
+  "rank": 1,
+  "families": [
+   "data",
+   "sdlc",
+   "gov"
+  ],
+  "scores": {
+   "data": 19,
+   "sdlc": 3,
+   "gov": 3,
+   "finance": 3,
+   "health": 3
+  }
+ },
+ {
+  "file": "30_Capital_One_Financial_Senior_Business_Analyst_Credit_Reporting_Perfo.docx",
+  "company": "Capital One Financial",
+  "title": "Senior Business Analyst - Credit Reporting & Performance",
+  "location": "McLean, VA",
+  "start_date": "2026-08-11",
+  "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Business-Analyst---Credit-Reporting---Performance_R248806-1",
+  "source": "Workday",
+  "rank": 63,
+  "families": [
+   "tech",
+   "stats",
+   "data"
+  ],
+  "scores": {
+   "tech": 23,
+   "stats": 14,
+   "data": 11,
+   "finance": 8,
+   "health": 4,
+   "cloud": 3,
+   "supply": 3,
+   "sdlc": 1,
+   "gov": 1
+  }
+ },
+ {
+  "file": "31_U_S_Bancorp_Business_Analyst_Reconciliation_and_Payment_Te.docx",
+  "company": "U.S. Bancorp",
+  "title": "Business Analyst - Reconciliation and Payment Team",
+  "location": "Saint Paul, MN",
+  "start_date": "2026-08-11",
+  "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Paul-MN/Business-Technology-Analyst---Operations_2026-0012731",
+  "source": "Workday",
+  "rank": 110,
+  "families": [
+   "sdlc",
+   "tech",
+   "data"
+  ],
+  "scores": {
+   "sdlc": 17,
+   "tech": 15,
+   "data": 11,
+   "finance": 9,
+   "supply": 8,
+   "health": 8,
+   "gov": 3,
+   "cloud": 1,
+   "stats": 1
+  }
+ },
+ {
+  "file": "32_State_Street_Technical_Business_Analyst_AVP.docx",
+  "company": "State Street",
+  "title": "Technical Business Analyst,AVP",
+  "location": "Quincy, Massachusetts",
+  "start_date": "2026-08-11",
+  "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Technical-Business-Analyst-AVP_R-791484-1",
+  "source": "Workday",
+  "rank": 202,
+  "families": [
+   "sdlc",
+   "tech",
+   "supply"
+  ],
+  "scores": {
+   "sdlc": 21,
+   "tech": 15,
+   "supply": 3,
+   "health": 2,
+   "data": 1,
+   "stats": 1
+  }
+ },
+ {
+  "file": "33_McKesson_Sr_SAP_Vistex_Business_Analyst.docx",
+  "company": "McKesson",
+  "title": "Sr. SAP Vistex Business Analyst",
+  "location": "USA, TX, Irving",
+  "start_date": "2026-08-10",
+  "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Sr-SAP-Vistex-Business-Analyst_JR0152006",
+  "source": "Workday",
+  "rank": 8,
+  "families": [
+   "health",
+   "tech",
+   "sdlc"
+  ],
+  "scores": {
+   "health": 13,
+   "tech": 11,
+   "sdlc": 8,
+   "data": 2,
+   "gov": 1,
+   "supply": 1
+  }
+ },
+ {
+  "file": "34_Freddie_Mac_Single_Family_Business_Analyst.docx",
+  "company": "Freddie Mac",
+  "title": "Single Family Business Analyst",
+  "location": "McLean, VA",
+  "start_date": "2026-08-10",
+  "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Business-Analyst_JR17442",
+  "source": "Workday",
+  "rank": 33,
+  "families": [
+   "data",
+   "sdlc",
+   "gov"
+  ],
+  "scores": {
+   "data": 5,
+   "sdlc": 3,
+   "gov": 3,
+   "tech": 3,
+   "finance": 3,
+   "cloud": 2,
+   "health": 2,
+   "stats": 1
+  }
+ },
+ {
+  "file": "35_State_Street_Alpha_Data_Services_Senior_Implementation_Busi.docx",
+  "company": "State Street",
+  "title": "Alpha Data Services, Senior Implementation Business Analyst, Vice President",
+  "location": "Burlington Massachusetts",
+  "start_date": "2026-08-10",
+  "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Alpha-Data-Services--Senior-Implementation-Business-Analyst--Vice-President_R-792919",
+  "source": "Workday",
+  "rank": 202,
+  "families": [
+   "tech",
+   "sdlc",
+   "data"
+  ],
+  "scores": {
+   "tech": 22,
+   "sdlc": 8,
+   "data": 8,
+   "gov": 6,
+   "finance": 6,
+   "health": 5,
+   "cloud": 4,
+   "stats": 1,
+   "supply": 1
+  }
+ }
+]

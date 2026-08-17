@@ -1,0 +1,630 @@
+{
+ "Elevance Health": [
+  "ok",
+  "Workday API (elevancehealth.wd1/ANT)"
+ ],
+ "Chevron": [
+  "ok",
+  "Workday API (chevron.wd5/jobs)"
+ ],
+ "Fannie Mae": [
+  "ok",
+  "Workday API (fanniemae.wd1/FannieMaeCareers)"
+ ],
+ "Cardinal Health": [
+  "ok",
+  "Workday API (cardinalhealth.wd1/EXT)"
+ ],
+ "CVS Health": [
+  "ok",
+  "Workday API (cvshealth.wd1/CVS_Health_Careers)"
+ ],
+ "Nvidia": [
+  "ok",
+  "Workday API (nvidia.wd5/NVIDIAExternalCareerSite)"
+ ],
+ "Cencora": [
+  "ok",
+  "Workday API (myhrabc.wd5/Global)"
+ ],
+ "McKesson": [
+  "ok",
+  "Workday API (mckesson.wd3/External_Careers)"
+ ],
+ "Cigna Group": [
+  "ok",
+  "Workday API (cigna.wd5/cignacareers)"
+ ],
+ "Centene": [
+  "ok",
+  "Workday API (centene.wd5/Centene_External)"
+ ],
+ "General Motors": [
+  "ok",
+  "Workday API (generalmotors.wd5/Careers_GM)"
+ ],
+ "Citigroup": [
+  "ok",
+  "Workday API (citi.wd5/2)"
+ ],
+ "Home Depot": [
+  "ok",
+  "Workday API (homedepot.wd5/CareerDepot)"
+ ],
+ "Marathon Petroleum": [
+  "ok",
+  "Workday API (mpc.wd1/MPCCareers)"
+ ],
+ "Freddie Mac": [
+  "ok",
+  "Workday API (freddiemac.wd5/External)"
+ ],
+ "Humana": [
+  "ok",
+  "Workday API (humana.wd5/Humana_External_Career_Site)"
+ ],
+ "Comcast": [
+  "ok",
+  "Workday API (comcast.wd5/Comcast_Careers)"
+ ],
+ "Walmart": [
+  "failed",
+  "Workday endpoint walmart.wd5/WalmartExternal did not respond"
+ ],
+ "Wells Fargo": [
+  "ok",
+  "Workday API (wf.wd1/WellsFargoJobs)"
+ ],
+ "Morgan Stanley": [
+  "ok",
+  "Workday API (ms.wd5/External)"
+ ],
+ "Verizon Communications": [
+  "failed",
+  "Workday endpoint verizon.wd5/verizon-careers did not respond"
+ ],
+ "Walt Disney": [
+  "ok",
+  "Workday API (disney.wd5/disneycareer)"
+ ],
+ "Johnson & Johnson": [
+  "ok",
+  "Workday API (jj.wd5/JJ)"
+ ],
+ "Dell Technologies": [
+  "ok",
+  "Workday API (dell.wd1/External)"
+ ],
+ "RTX": [
+  "ok",
+  "Workday API (globalhr.wd5/REC_RTX_Ext_Gateway)"
+ ],
+ "Target": [
+  "ok",
+  "Workday API (target.wd5/targetcareers)"
+ ],
+ "Boeing": [
+  "ok",
+  "Workday API (boeing.wd1/EXTERNAL_CAREERS)"
+ ],
+ "UPS": [
+  "ok",
+  "Workday API (hcmportal.wd5/Search)"
+ ],
+ "FedEx": [
+  "ok",
+  "Workday API (fedex.wd1/FDW_External_Career_Site)"
+ ],
+ "Lowe's": [
+  "ok",
+  "Workday API (lowes.wd5/LWS_External_CS)"
+ ],
+ "Capital One Financial": [
+  "ok",
+  "Workday API (capitalone.wd12/Capital_One)"
+ ],
+ "HCA Healthcare": [
+  "ok",
+  "Workday API (hcahealthcare.wd3/hcacareers)"
+ ],
+ "Procter & Gamble": [
+  "ok",
+  "Workday API (pg.wd5/1000)"
+ ],
+ "Sysco": [
+  "ok",
+  "Workday API (sysco.wd5/syscocareers)"
+ ],
+ "Allstate": [
+  "ok",
+  "Workday API (allstate.wd5/allstate_careers)"
+ ],
+ "Caterpillar": [
+  "ok",
+  "Workday API (cat.wd5/CaterpillarCareers)"
+ ],
+ "Merck": [
+  "ok",
+  "Workday API (msd.wd5/SearchJobs)"
+ ],
+ "Broadcom": [
+  "ok",
+  "Workday API (broadcom.wd1/External_Career)"
+ ],
+ "Nationwide": [
+  "ok",
+  "Workday API (nationwide.wd1/Nationwide_Career)"
+ ],
+ "Pfizer": [
+  "ok",
+  "Workday API (pfizer.wd1/PfizerCareers)"
+ ],
+ "TJX": [
+  "ok",
+  "Workday API (tjx.wd1/TJX_EXTERNAL)"
+ ],
+ "Prudential Financial": [
+  "ok",
+  "Workday API (pru.wd5/Careers)"
+ ],
+ "ConocoPhillips": [
+  "ok",
+  "Workday API (conocophillips.wd1/External)"
+ ],
+ "Cisco Systems": [
+  "ok",
+  "Workday API (cisco.wd5/Cisco_Careers)"
+ ],
+ "Eli Lilly": [
+  "failed",
+  "Workday endpoint lilly.wd5/LLY did not respond"
+ ],
+ "HP": [
+  "ok",
+  "Workday API (hp.wd5/ExternalCareerSite)"
+ ],
+ "USAA": [
+  "ok",
+  "Workday API (usaa.wd1/USAAJOBSWD)"
+ ],
+ "Tyson Foods": [
+  "ok",
+  "Workday API (tysonfoods.wd5/TSN)"
+ ],
+ "Intel": [
+  "ok",
+  "Workday API (intel.wd1/External)"
+ ],
+ "General Dynamics": [
+  "ok",
+  "Workday API (gdit.wd5/External_Career_Site)"
+ ],
+ "TIAA": [
+  "ok",
+  "Workday API (tiaa.wd1/Search)"
+ ],
+ "Travelers": [
+  "ok",
+  "Workday API (travelers.wd5/External)"
+ ],
+ "Bristol-Myers Squibb": [
+  "ok",
+  "Workday API (bristolmyerssquibb.wd5/BMS)"
+ ],
+ "Nike": [
+  "ok",
+  "Workday API (nike.wd1/nke)"
+ ],
+ "Massachusetts Mutual Life": [
+  "ok",
+  "Workday API (massmutual.wd1/MMAscendCareers)"
+ ],
+ "Coca-Cola": [
+  "ok",
+  "Workday API (coke.wd1/coca-cola-careers)"
+ ],
+ "Amazon": [
+  "ok",
+  "amazon.jobs search API"
+ ],
+ "Costco Wholesale": [
+  "ok",
+  "Phenom jobs API (careers.costco.com)"
+ ],
+ "Galaxy Digital": [
+  "ok",
+  "Greenhouse boards API (galaxydigitalservices)"
+ ],
+ "State Farm Insurance": [
+  "ok",
+  "Phenom jobs API (jobs.statefarm.com)"
+ ],
+ "PepsiCo": [
+  "ok",
+  "Phenom jobs API (www.pepsicojobs.com)"
+ ],
+ "GE Aerospace": [
+  "ok",
+  "Workday API (geaerospace.wd5/GE_ExternalSite)"
+ ],
+ "Plains GP Holdings": [
+  "ok",
+  "Workday API (plains.wd1/plains)"
+ ],
+ "Northwestern Mutual": [
+  "ok",
+  "Workday API (northwesternmutual.wd5/CORPORATE-CAREERS)"
+ ],
+ "Qualcomm": [
+  "ok",
+  "Workday API (qualcomm.wd12/External)"
+ ],
+ "Abbott Laboratories": [
+  "ok",
+  "Workday API (abbott.wd5/abbottcareers)"
+ ],
+ "Northrop Grumman": [
+  "ok",
+  "Workday API (ngc.wd1/Northrop_Grumman_External_Site)"
+ ],
+ "U.S. Bancorp": [
+  "ok",
+  "Workday API (usbank.wd1/US_Bank_Careers)"
+ ],
+ "Albertsons": [
+  "ok",
+  "Oracle Cloud recruiting API (eofd.fa.us6.oraclecloud.com, CX_1001)"
+ ],
+ "JPMorgan Chase": [
+  "ok",
+  "Oracle Cloud recruiting API (jpmc.fa.oraclecloud.com, CX_1001)"
+ ],
+ "Salesforce": [
+  "ok",
+  "Workday API (salesforce.wd12/External_Career_Site)"
+ ],
+ "Oracle": [
+  "ok",
+  "Oracle Cloud recruiting API (eeho.fa.us2.oraclecloud.com, CX_45001)"
+ ],
+ "Kroger": [
+  "ok",
+  "Oracle Cloud recruiting API (eluq.fa.us2.oraclecloud.com, CX_2001)"
+ ],
+ "Uber Technologies": [
+  "ok",
+  "Oracle Cloud recruiting API (iaziqy.fa.ocs.oraclecloud.com, CX_1)"
+ ],
+ "Visa": [
+  "ok",
+  "Workday API (visa.wd5/Visa)"
+ ],
+ "Thermo Fisher Scientific": [
+  "failed",
+  "Phenom endpoint on jobs.thermofisher.com returned no usable response (HTTP 500)"
+ ],
+ "American Express": [
+  "ok",
+  "Oracle Cloud recruiting API (egug.fa.us2.oraclecloud.com, CX_1)"
+ ],
+ "Dow": [
+  "ok",
+  "Workday API (dow.wd1/ExternalCareers)"
+ ],
+ "Micron Technology": [
+  "ok",
+  "Workday API (micron.wd1/External)"
+ ],
+ "Molina Healthcare": [
+  "ok",
+  "Oracle Cloud recruiting API (hckd.fa.us2.oraclecloud.com, CX_1)"
+ ],
+ "Mondelez International": [
+  "ok",
+  "Workday API (mdlz.wd3/External)"
+ ],
+ "World Kinect": [
+  "ok",
+  "Workday API (wfscorp.wd5/wfscareers)"
+ ],
+ "Amgen": [
+  "ok",
+  "Workday API (amgen.wd1/Careers)"
+ ],
+ "PNC Financial Services Group": [
+  "ok",
+  "Workday API (pnc.wd5/External)"
+ ],
+ "US Foods Holding": [
+  "failed",
+  "Phenom endpoint on careers.usfoods.com returned no usable response (HTTP 500)"
+ ],
+ "Mastercard": [
+  "ok",
+  "Workday API (mastercard.wd1/CorporateCareers)"
+ ],
+ "Apollo Global Management": [
+  "ok",
+  "Workday API (athene.wd5/Apollo_Careers)"
+ ],
+ "Honeywell International": [
+  "ok",
+  "Oracle Cloud recruiting API (ibqbjb.fa.ocs.oraclecloud.com, CX_1)"
+ ],
+ "Duke Energy": [
+  "ok",
+  "Workday API (dukeenergy.wd1/search)"
+ ],
+ "Warner Bros. Discovery": [
+  "failed",
+  "Phenom endpoint on careers.wbd.com returned no usable response (HTTP 500)"
+ ],
+ "Ferguson Enterprises": [
+  "ok",
+  "Workday API (ferguson.wd1/Ferguson_Experienced)"
+ ],
+ "Gilead Sciences": [
+  "ok",
+  "Workday API (gilead.wd1/gileadcareers)"
+ ],
+ "Hewlett Packard Enterprise": [
+  "failed",
+  "Phenom endpoint on careers.hpe.com returned no usable response (HTTP 500)"
+ ],
+ "Applied Materials": [
+  "ok",
+  "Workday API (amat.wd1/External)"
+ ],
+ "Hartford Insurance Group": [
+  "ok",
+  "Workday API (thehartford.wd5/Careers_External)"
+ ],
+ "CarMax": [
+  "ok",
+  "Workday API (carmax.wd1/External)"
+ ],
+ "GuideWell Mutual Holding": [
+  "ok",
+  "Oracle Cloud recruiting API (fa-etum-saasfaprod1.fa.ocs.oraclecloud.com, CX_1)"
+ ],
+ "Arrow Electronics": [
+  "ok",
+  "Workday API (arrow.wd1/AC)"
+ ],
+ "Truist Financial": [
+  "failed",
+  "Phenom endpoint on careers.truist.com returned no usable response (HTTP 500)"
+ ],
+ "Southwest Airlines": [
+  "ok",
+  "Workday API (swa.wd1/External)"
+ ],
+ "AIG": [
+  "ok",
+  "Workday API (aig.wd1/aig)"
+ ],
+ "Occidental Petroleum": [
+  "ok",
+  "Workday API (oxy.wd5/Corporate)"
+ ],
+ "Jones Lang LaSalle": [
+  "ok",
+  "Workday API (jll.wd1/jllcareers)"
+ ],
+ "Live Nation Entertainment": [
+  "ok",
+  "Workday API (livenation.wd503/LNExternalSite)"
+ ],
+ "Stryker": [
+  "ok",
+  "Workday API (stryker.wd1/StrykerCareers)"
+ ],
+ "Dollar Tree": [
+  "ok",
+  "Workday API (dollartree.wd5/dollartreeus)"
+ ],
+ "AutoNation": [
+  "failed",
+  "Phenom endpoint on careers.autonation.com returned no usable response (HTTP 500)"
+ ],
+ "3M": [
+  "ok",
+  "Workday API (3m.wd1/Search)"
+ ],
+ "Marsh & McLennan": [
+  "failed",
+  "Phenom endpoint on careers.marshmclennan.com returned no usable response (HTTP 500)"
+ ],
+ "Kraft Heinz": [
+  "ok",
+  "Workday API (heinz.wd1/KraftHeinz_Careers)"
+ ],
+ "Marriott International": [
+  "ok",
+  "Oracle Cloud recruiting API (ejwl.fa.us2.oraclecloud.com, CX_2)"
+ ],
+ "International Paper": [
+  "ok",
+  "Oracle Cloud recruiting API (iazbqy.fa.ocs.oraclecloud.com, CX_1)"
+ ],
+ "BlackRock": [
+  "ok",
+  "Workday API (blackrock.wd1/BlackRock_Professional)"
+ ],
+ "Waste Management": [
+  "ok",
+  "Oracle Cloud recruiting API (emcm.fa.us2.oraclecloud.com, CX_4001)"
+ ],
+ "Synchrony Financial": [
+  "ok",
+  "Workday API (synchronyfinancial.wd5/careers)"
+ ],
+ "Starbucks": [
+  "failed",
+  "Eightfold returned nothing"
+ ],
+ "State Street": [
+  "ok",
+  "Workday API (statestreet.wd1/Global)"
+ ],
+ "CDW": [
+  "ok",
+  "Workday API (cdw.wd5/Careers)"
+ ],
+ "Avnet": [
+  "ok",
+  "Workday API (avnet.wd1/External)"
+ ],
+ "Danaher": [
+  "failed",
+  "Phenom endpoint on jobs.danaher.com returned no usable response (HTTP 500)"
+ ],
+ "Adobe": [
+  "failed",
+  "Phenom endpoint on careers.adobe.com returned no usable response (HTTP 500)"
+ ],
+ "PayPal Holdings": [
+  "failed",
+  "Eightfold returned nothing"
+ ],
+ "BJ's Wholesale Club": [
+  "ok",
+  "Workday API (bjswholesaleclub.wd1/BJsCareers)"
+ ],
+ "Becton Dickinson": [
+  "ok",
+  "Workday API (bdx.wd1/EXTERNAL_CAREER_SITE_USA)"
+ ],
+ "GE HealthCare Technologies": [
+  "ok",
+  "Workday API (gehc.wd5/GEHC_ExternalSite)"
+ ],
+ "Union Pacific": [
+  "failed",
+  "Phenom endpoint on up.jobs returned no usable response (HTTP 500)"
+ ],
+ "General Mills": [
+  "ok",
+  "Workday API (genmills.wd1/GMI_External_Careers)"
+ ],
+ "Freeport-McMoRan": [
+  "ok",
+  "Eightfold API (fcx.eightfold.ai)"
+ ],
+ "Loews": [
+  "ok",
+  "Workday API (loewscorp.wd1/loewscorp)"
+ ],
+ "Guardian Life": [
+  "ok",
+  "Workday API (guardianlife.wd5/Guardian-Life-Careers)"
+ ],
+ "Sherwin-Williams": [
+  "ok",
+  "Oracle Cloud recruiting API (ejhp.fa.us6.oraclecloud.com, CX_1)"
+ ],
+ "Goodyear Tire & Rubber": [
+  "ok",
+  "Workday API (goodyear.wd1/GoodyearCareers)"
+ ],
+ "Newmont": [
+  "failed",
+  "Phenom endpoint on jobs.newmont.com returned no usable response (HTTP 500)"
+ ],
+ "Dick's Sporting Goods": [
+  "ok",
+  "Workday API (dickssportinggoods.wd1/DSG)"
+ ],
+ "Fiserv": [
+  "failed",
+  "Phenom endpoint on careers.fiserv.com returned no usable response (HTTP 500)"
+ ],
+ "LPL Financial Holdings": [
+  "ok",
+  "Workday API (lplfinancial.wd1/External)"
+ ],
+ "Leidos Holdings": [
+  "ok",
+  "Workday API (leidos.wd5/External)"
+ ],
+ "Macy's": [
+  "ok",
+  "Oracle Cloud recruiting API (ebwh.fa.us2.oraclecloud.com, CX_1)"
+ ],
+ "AutoZone": [
+  "ok",
+  "Oracle Cloud recruiting API (egud.fa.us2.oraclecloud.com, CX_1)"
+ ],
+ "Markel Group": [
+  "ok",
+  "Workday API (markelcorp.wd5/GlobalCareers)"
+ ],
+ "Land O'Lakes": [
+  "ok",
+  "Workday API (landolakes.wd1/LandOLakes)"
+ ],
+ "O'Reilly Automotive": [
+  "failed",
+  "Phenom endpoint on corporate.oreillyauto.com returned no usable response (HTTP 500)"
+ ],
+ "IQVIA Holdings": [
+  "ok",
+  "Workday API (iqvia.wd1/IQVIA)"
+ ],
+ "United Rentals": [
+  "ok",
+  "Workday API (ur.wd1/URcareers)"
+ ],
+ "C.H. Robinson Worldwide": [
+  "ok",
+  "Workday API (chrobinson.wd5/CHRobinson)"
+ ],
+ "Illinois Tool Works": [
+  "ok",
+  "Workday API (itw.wd5/External)"
+ ],
+ "PPG Industries": [
+  "ok",
+  "Workday API (ppg.wd5/PPG_CAREERS)"
+ ],
+ "Kohl's": [
+  "ok",
+  "Workday API (kohls.wd504/kohlscareers)"
+ ],
+ "Republic Services": [
+  "failed",
+  "Phenom endpoint on jobs.republicservices.com returned no usable response (HTTP 500)"
+ ],
+ "Texas Instruments": [
+  "ok",
+  "Oracle Cloud recruiting API (edbz.fa.us2.oraclecloud.com, CX_1)"
+ ],
+ "S&P Global": [
+  "ok",
+  "Workday API (spgi.wd5/SPGI_Careers)"
+ ],
+ "Kyndryl Holdings": [
+  "ok",
+  "Workday API (kyndryl.wd5/KyndrylProfessionalCareers)"
+ ],
+ "Ecolab": [
+  "failed",
+  "Phenom endpoint on jobs.ecolab.com returned no usable response (HTTP 500)"
+ ],
+ "Boston Scientific": [
+  "failed",
+  "Eightfold returned nothing"
+ ],
+ "Corteva": [
+  "failed",
+  "Eightfold returned nothing"
+ ],
+ "Keurig Dr Pepper": [
+  "failed",
+  "Eightfold returned nothing"
+ ],
+ "Emerson Electric": [
+  "ok",
+  "Oracle Cloud recruiting API (hdjq.fa.us2.oraclecloud.com, CX_1)"
+ ]
+}

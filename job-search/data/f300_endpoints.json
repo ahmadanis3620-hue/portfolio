@@ -1,0 +1,537 @@
+[
+ {
+  "rank": 201,
+  "name": "EOG Resources"
+ },
+ {
+  "rank": 202,
+  "name": "State Street",
+  "workday": [
+   "statestreet",
+   "wd1",
+   "Global"
+  ],
+  "phenom_host": "careers.statestreet.com"
+ },
+ {
+  "rank": 203,
+  "name": "Macy's",
+  "oracle_host": "ebwh.fa.us2.oraclecloud.com",
+  "oracle_site": "CX_1001"
+ },
+ {
+  "rank": 204,
+  "name": "Group 1 Automotive"
+ },
+ {
+  "rank": 205,
+  "name": "CDW",
+  "workday": [
+   "cdw",
+   "wd5",
+   "Careers"
+  ]
+ },
+ {
+  "rank": 206,
+  "name": "Avnet",
+  "workday": [
+   "avnet",
+   "wd1",
+   "External"
+  ]
+ },
+ {
+  "rank": 207,
+  "name": "Halliburton"
+ },
+ {
+  "rank": 208,
+  "name": "Super Micro Computer"
+ },
+ {
+  "rank": 209,
+  "name": "American Electric Power"
+ },
+ {
+  "rank": 210,
+  "name": "L3Harris Technologies"
+ },
+ {
+  "rank": 211,
+  "name": "Becton Dickinson",
+  "workday": [
+   "bdx",
+   "wd1",
+   "EXTERNAL_CAREER_SITE_USA"
+  ]
+ },
+ {
+  "rank": 212,
+  "name": "Carrier Global"
+ },
+ {
+  "rank": 213,
+  "name": "BJ's Wholesale Club",
+  "workday": [
+   "bjswholesaleclub",
+   "wd1",
+   "BJsCareers"
+  ]
+ },
+ {
+  "rank": 214,
+  "name": "Tenet Healthcare"
+ },
+ {
+  "rank": 215,
+  "name": "Fiserv",
+  "phenom_host": "careers.fiserv.com"
+ },
+ {
+  "rank": 216,
+  "name": "Cognizant Technology Solutions"
+ },
+ {
+  "rank": 217,
+  "name": "GE HealthCare Technologies",
+  "workday": [
+   "gehc",
+   "wd5",
+   "GEHC_ExternalSite"
+  ]
+ },
+ {
+  "rank": 218,
+  "name": "Automatic Data Processing"
+ },
+ {
+  "rank": 219,
+  "name": "Colgate-Palmolive"
+ },
+ {
+  "rank": 220,
+  "name": "Carvana"
+ },
+ {
+  "rank": 221,
+  "name": "Altria Group"
+ },
+ {
+  "rank": 222,
+  "name": "Boston Scientific",
+  "eightfold": "bostonscientific"
+ },
+ {
+  "rank": 223,
+  "name": "Cheniere Energy"
+ },
+ {
+  "rank": 224,
+  "name": "Parker-Hannifin"
+ },
+ {
+  "rank": 225,
+  "name": "Kimberly-Clark"
+ },
+ {
+  "rank": 226,
+  "name": "American Family Insurance Group"
+ },
+ {
+  "rank": 227,
+  "name": "General Mills",
+  "workday": [
+   "genmills",
+   "wd1",
+   "GMI_External_Careers"
+  ]
+ },
+ {
+  "rank": 228,
+  "name": "Edison International"
+ },
+ {
+  "rank": 229,
+  "name": "AutoZone",
+  "oracle_host": "egud.fa.us2.oraclecloud.com",
+  "oracle_site": "CX_1"
+ },
+ {
+  "rank": 230,
+  "name": "Ameriprise Financial"
+ },
+ {
+  "rank": 231,
+  "name": "Intuit"
+ },
+ {
+  "rank": 232,
+  "name": "Guardian Life",
+  "workday": [
+   "guardianlife",
+   "wd5",
+   "Guardian-Life-Careers"
+  ]
+ },
+ {
+  "rank": 233,
+  "name": "Cleveland-Cliffs"
+ },
+ {
+  "rank": 234,
+  "name": "Global Partners"
+ },
+ {
+  "rank": 235,
+  "name": "Aramark"
+ },
+ {
+  "rank": 236,
+  "name": "Corebridge Financial"
+ },
+ {
+  "rank": 237,
+  "name": "Loews",
+  "workday": [
+   "loewscorp",
+   "wd1",
+   "loewscorp"
+  ]
+ },
+ {
+  "rank": 238,
+  "name": "Lam Research",
+  "eightfold": "app"
+ },
+ {
+  "rank": 239,
+  "name": "Goodyear Tire & Rubber",
+  "workday": [
+   "goodyear",
+   "wd1",
+   "GoodyearCareers"
+  ]
+ },
+ {
+  "rank": 240,
+  "name": "Pacific Life"
+ },
+ {
+  "rank": 241,
+  "name": "Auto-Owners Insurance"
+ },
+ {
+  "rank": 242,
+  "name": "Peter Kiewit Sons'"
+ },
+ {
+  "rank": 243,
+  "name": "Lincoln National"
+ },
+ {
+  "rank": 244,
+  "name": "Steel Dynamics"
+ },
+ {
+  "rank": 245,
+  "name": "Emerson Electric",
+  "oracle_host": "hdjq.fa.us2.oraclecloud.com",
+  "oracle_site": "CX_1"
+ },
+ {
+  "rank": 246,
+  "name": "Asbury Automotive Group"
+ },
+ {
+  "rank": 247,
+  "name": "ManpowerGroup"
+ },
+ {
+  "rank": 248,
+  "name": "W.W. Grainger"
+ },
+ {
+  "rank": 249,
+  "name": "Jones Financial (Edward Jones)"
+ },
+ {
+  "rank": 250,
+  "name": "O'Reilly Automotive",
+  "phenom_host": "corporate.oreillyauto.com"
+ },
+ {
+  "rank": 251,
+  "name": "Vistra"
+ },
+ {
+  "rank": 252,
+  "name": "Texas Instruments",
+  "oracle_host": "edbz.fa.us2.oraclecloud.com",
+  "oracle_site": "CX_1"
+ },
+ {
+  "rank": 253,
+  "name": "MGM Resorts International"
+ },
+ {
+  "rank": 254,
+  "name": "Corteva",
+  "eightfold": "corteva"
+ },
+ {
+  "rank": 255,
+  "name": "Universal Health Services"
+ },
+ {
+  "rank": 256,
+  "name": "PulteGroup"
+ },
+ {
+  "rank": 257,
+  "name": "Omnicom Group"
+ },
+ {
+  "rank": 258,
+  "name": "Dick's Sporting Goods",
+  "workday": [
+   "dickssportinggoods",
+   "wd1",
+   "DSG"
+  ]
+ },
+ {
+  "rank": 259,
+  "name": "Devon Energy"
+ },
+ {
+  "rank": 260,
+  "name": "Leidos Holdings",
+  "workday": [
+   "leidos",
+   "wd5",
+   "External"
+  ]
+ },
+ {
+  "rank": 261,
+  "name": "Aflac"
+ },
+ {
+  "rank": 262,
+  "name": "Targa Resources"
+ },
+ {
+  "rank": 263,
+  "name": "Murphy USA"
+ },
+ {
+  "rank": 264,
+  "name": "LPL Financial Holdings",
+  "phenom_host": "careers.lpl.com",
+  "workday": [
+   "lplfinancial",
+   "wd1",
+   "External"
+  ]
+ },
+ {
+  "rank": 265,
+  "name": "EMCOR Group"
+ },
+ {
+  "rank": 266,
+  "name": "Kinder Morgan"
+ },
+ {
+  "rank": 267,
+  "name": "Consolidated Edison"
+ },
+ {
+  "rank": 268,
+  "name": "Keurig Dr Pepper",
+  "eightfold": "kdrp"
+ },
+ {
+  "rank": 269,
+  "name": "Republic Services",
+  "phenom_host": "jobs.republicservices.com"
+ },
+ {
+  "rank": 270,
+  "name": "Markel Group",
+  "workday": [
+   "markelcorp",
+   "wd5",
+   "GlobalCareers"
+  ]
+ },
+ {
+  "rank": 271,
+  "name": "Farmers Insurance Exchange"
+ },
+ {
+  "rank": 272,
+  "name": "Dominion Energy"
+ },
+ {
+  "rank": 273,
+  "name": "Land O'Lakes",
+  "workday": [
+   "landolakes",
+   "wd1",
+   "LandOLakes"
+  ]
+ },
+ {
+  "rank": 274,
+  "name": "IQVIA Holdings",
+  "workday": [
+   "iqvia",
+   "wd1",
+   "IQVIA"
+  ]
+ },
+ {
+  "rank": 275,
+  "name": "Fox"
+ },
+ {
+  "rank": 276,
+  "name": "AECOM"
+ },
+ {
+  "rank": 277,
+  "name": "C.H. Robinson Worldwide",
+  "workday": [
+   "chrobinson",
+   "wd5",
+   "CHRobinson"
+  ]
+ },
+ {
+  "rank": 278,
+  "name": "Bitgo Holdings"
+ },
+ {
+  "rank": 279,
+  "name": "United Rentals",
+  "workday": [
+   "ur",
+   "wd1",
+   "URcareers"
+  ]
+ },
+ {
+  "rank": 280,
+  "name": "Ecolab",
+  "phenom_host": "jobs.ecolab.com"
+ },
+ {
+  "rank": 281,
+  "name": "Illinois Tool Works",
+  "phenom_host": "careers.itw.com",
+  "workday": [
+   "itw",
+   "wd5",
+   "External"
+  ]
+ },
+ {
+  "rank": 282,
+  "name": "Casey's General Stores"
+ },
+ {
+  "rank": 283,
+  "name": "Raymond James Financial"
+ },
+ {
+  "rank": 284,
+  "name": "PPG Industries",
+  "workday": [
+   "ppg",
+   "wd5",
+   "PPG_CAREERS"
+  ]
+ },
+ {
+  "rank": 285,
+  "name": "DTE Energy"
+ },
+ {
+  "rank": 286,
+  "name": "Corning"
+ },
+ {
+  "rank": 287,
+  "name": "Principal Financial"
+ },
+ {
+  "rank": 288,
+  "name": "Mutual of Omaha"
+ },
+ {
+  "rank": 289,
+  "name": "Kohl's",
+  "workday": [
+   "kohls",
+   "wd504",
+   "kohlscareers"
+  ],
+  "phenom_host": "careers.kohls.com"
+ },
+ {
+  "rank": 290,
+  "name": "Tractor Supply"
+ },
+ {
+  "rank": 291,
+  "name": "Whirlpool"
+ },
+ {
+  "rank": 292,
+  "name": "Fluor"
+ },
+ {
+  "rank": 293,
+  "name": "Gap"
+ },
+ {
+  "rank": 294,
+  "name": "S&P Global",
+  "workday": [
+   "spgi",
+   "wd5",
+   "SPGI_Careers"
+  ]
+ },
+ {
+  "rank": 295,
+  "name": "Ally Financial"
+ },
+ {
+  "rank": 296,
+  "name": "Builders FirstSource"
+ },
+ {
+  "rank": 297,
+  "name": "Sonic Automotive"
+ },
+ {
+  "rank": 298,
+  "name": "Stanley Black & Decker"
+ },
+ {
+  "rank": 299,
+  "name": "Kenvue"
+ },
+ {
+  "rank": 300,
+  "name": "Kyndryl Holdings",
+  "workday": [
+   "kyndryl",
+   "wd5",
+   "KyndrylProfessionalCareers"
+  ]
+ }
+]

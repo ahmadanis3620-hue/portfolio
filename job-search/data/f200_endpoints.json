@@ -1,0 +1,619 @@
+[
+ {
+  "rank": 101,
+  "name": "GE Aerospace",
+  "workday": [
+   "geaerospace",
+   "wd5",
+   "GE_ExternalSite"
+  ]
+ },
+ {
+  "rank": 102,
+  "name": "Deere",
+  "eightfold": "app"
+ },
+ {
+  "rank": 103,
+  "name": "Plains GP Holdings",
+  "workday": [
+   "plains",
+   "wd1",
+   "plains"
+  ]
+ },
+ {
+  "rank": 104,
+  "name": "Molina Healthcare",
+  "oracle_host": "hckd.fa.us2.oraclecloud.com",
+  "oracle_site": "CX_1"
+ },
+ {
+  "rank": 105,
+  "name": "Netflix",
+  "eightfold": "vs-errors"
+ },
+ {
+  "rank": 106,
+  "name": "Thermo Fisher Scientific",
+  "phenom_host": "jobs.thermofisher.com"
+ },
+ {
+  "rank": 107,
+  "name": "Abbott Laboratories",
+  "workday": [
+   "abbott",
+   "wd5",
+   "abbottcareers"
+  ],
+  "phenom_host": "www.jobs.abbott"
+ },
+ {
+  "rank": 108,
+  "name": "Qualcomm",
+  "eightfold": "vs-errors",
+  "workday": [
+   "qualcomm",
+   "wd12",
+   "External"
+  ]
+ },
+ {
+  "rank": 109,
+  "name": "Northwestern Mutual",
+  "workday": [
+   "northwesternmutual",
+   "wd5",
+   "CORPORATE-CAREERS"
+  ]
+ },
+ {
+  "rank": 110,
+  "name": "U.S. Bancorp",
+  "workday": [
+   "usbank",
+   "wd1",
+   "US_Bank_Careers"
+  ],
+  "phenom_host": "careers.usbank.com"
+ },
+ {
+  "rank": 111,
+  "name": "Dollar General"
+ },
+ {
+  "rank": 112,
+  "name": "Northrop Grumman",
+  "eightfold": "ngc",
+  "workday": [
+   "ngc",
+   "wd1",
+   "Northrop_Grumman_External_Site"
+  ]
+ },
+ {
+  "rank": 113,
+  "name": "Best Buy"
+ },
+ {
+  "rank": 114,
+  "name": "Salesforce",
+  "workday": [
+   "salesforce",
+   "wd12",
+   "External_Career_Site"
+  ]
+ },
+ {
+  "rank": 115,
+  "name": "Bank of New York (BNY)"
+ },
+ {
+  "rank": 116,
+  "name": "Honeywell International",
+  "oracle_host": "ibqbjb.fa.ocs.oraclecloud.com",
+  "oracle_site": "CX_1"
+ },
+ {
+  "rank": 117,
+  "name": "Philip Morris International"
+ },
+ {
+  "rank": 118,
+  "name": "CBRE Group"
+ },
+ {
+  "rank": 119,
+  "name": "Visa",
+  "workday": [
+   "visa",
+   "wd5",
+   "Visa"
+  ]
+ },
+ {
+  "rank": 120,
+  "name": "Dow",
+  "workday": [
+   "dow",
+   "wd1",
+   "ExternalCareers"
+  ]
+ },
+ {
+  "rank": 121,
+  "name": "US Foods Holding",
+  "phenom_host": "careers.usfoods.com"
+ },
+ {
+  "rank": 122,
+  "name": "Mondelez International",
+  "phenom_host": "www.mondelezinternational.com",
+  "workday": [
+   "mdlz",
+   "wd3",
+   "External"
+  ]
+ },
+ {
+  "rank": 123,
+  "name": "Lithia Motors"
+ },
+ {
+  "rank": 124,
+  "name": "GE Vernova"
+ },
+ {
+  "rank": 125,
+  "name": "Micron Technology",
+  "workday": [
+   "micron",
+   "wd1",
+   "External"
+  ],
+  "eightfold": "vs-errors"
+ },
+ {
+  "rank": 126,
+  "name": "Warner Bros. Discovery",
+  "phenom_host": "careers.wbd.com"
+ },
+ {
+  "rank": 127,
+  "name": "Starbucks",
+  "eightfold": "starbucks"
+ },
+ {
+  "rank": 128,
+  "name": "World Kinect",
+  "workday": [
+   "wfscorp",
+   "wd5",
+   "wfscareers"
+  ]
+ },
+ {
+  "rank": 129,
+  "name": "Amgen",
+  "workday": [
+   "amgen",
+   "wd1",
+   "Careers"
+  ],
+  "eightfold": "amgen"
+ },
+ {
+  "rank": 130,
+  "name": "CHS"
+ },
+ {
+  "rank": 131,
+  "name": "Advanced Micro Devices"
+ },
+ {
+  "rank": 132,
+  "name": "Coupang"
+ },
+ {
+  "rank": 133,
+  "name": "Hewlett Packard Enterprise",
+  "phenom_host": "careers.hpe.com"
+ },
+ {
+  "rank": 134,
+  "name": "D.R. Horton"
+ },
+ {
+  "rank": 135,
+  "name": "Lennar"
+ },
+ {
+  "rank": 136,
+  "name": "PNC Financial Services Group",
+  "phenom_host": "careers.pnc.com",
+  "workday": [
+   "pnc",
+   "wd5",
+   "External"
+  ]
+ },
+ {
+  "rank": 137,
+  "name": "Cummins"
+ },
+ {
+  "rank": 138,
+  "name": "Oneok"
+ },
+ {
+  "rank": 139,
+  "name": "PayPal Holdings",
+  "eightfold": "paypal"
+ },
+ {
+  "rank": 140,
+  "name": "GuideWell Mutual Holding",
+  "oracle_host": "fa-etum-saasfaprod1.fa.ocs.oraclecloud.com",
+  "oracle_site": "CX_1"
+ },
+ {
+  "rank": 141,
+  "name": "Mastercard",
+  "workday": [
+   "mastercard",
+   "wd1",
+   "CorporateCareers"
+  ],
+  "phenom_host": "careers.mastercard.com"
+ },
+ {
+  "rank": 142,
+  "name": "Nucor"
+ },
+ {
+  "rank": 143,
+  "name": "Apollo Global Management",
+  "workday": [
+   "athene",
+   "wd5",
+   "Apollo_Careers"
+  ]
+ },
+ {
+  "rank": 144,
+  "name": "Penske Automotive Group"
+ },
+ {
+  "rank": 145,
+  "name": "Duke Energy",
+  "workday": [
+   "dukeenergy",
+   "wd1",
+   "search"
+  ]
+ },
+ {
+  "rank": 146,
+  "name": "United Natural Foods"
+ },
+ {
+  "rank": 147,
+  "name": "Ferguson Enterprises",
+  "workday": [
+   "ferguson",
+   "wd1",
+   "Ferguson_Experienced"
+  ]
+ },
+ {
+  "rank": 148,
+  "name": "Arrow Electronics",
+  "workday": [
+   "arrow",
+   "wd1",
+   "AC"
+  ],
+  "phenom_host": "careers.arrow.com"
+ },
+ {
+  "rank": 149,
+  "name": "NRG Energy"
+ },
+ {
+  "rank": 150,
+  "name": "Truist Financial",
+  "phenom_host": "careers.truist.com"
+ },
+ {
+  "rank": 151,
+  "name": "Jabil"
+ },
+ {
+  "rank": 152,
+  "name": "Southern"
+ },
+ {
+  "rank": 153,
+  "name": "Gilead Sciences",
+  "workday": [
+   "gilead",
+   "wd1",
+   "gileadcareers"
+  ]
+ },
+ {
+  "rank": 154,
+  "name": "PBF Energy"
+ },
+ {
+  "rank": 155,
+  "name": "Paramount Skydance"
+ },
+ {
+  "rank": 156,
+  "name": "KKR"
+ },
+ {
+  "rank": 157,
+  "name": "Quanta Services"
+ },
+ {
+  "rank": 158,
+  "name": "Paccar"
+ },
+ {
+  "rank": 159,
+  "name": "Medline"
+ },
+ {
+  "rank": 160,
+  "name": "Applied Materials",
+  "eightfold": "vs-errors",
+  "workday": [
+   "amat",
+   "wd1",
+   "External"
+  ]
+ },
+ {
+  "rank": 161,
+  "name": "Hartford Insurance Group",
+  "workday": [
+   "thehartford",
+   "wd5",
+   "Careers_External"
+  ]
+ },
+ {
+  "rank": 162,
+  "name": "CarMax",
+  "workday": [
+   "carmax",
+   "wd1",
+   "External"
+  ]
+ },
+ {
+  "rank": 163,
+  "name": "Southwest Airlines",
+  "phenom_host": "careers.southwestair.com",
+  "workday": [
+   "swa",
+   "wd1",
+   "External"
+  ]
+ },
+ {
+  "rank": 164,
+  "name": "Baker Hughes"
+ },
+ {
+  "rank": 165,
+  "name": "Charles Schwab"
+ },
+ {
+  "rank": 166,
+  "name": "AutoNation",
+  "phenom_host": "careers.autonation.com"
+ },
+ {
+  "rank": 167,
+  "name": "NextEra Energy"
+ },
+ {
+  "rank": 168,
+  "name": "Marsh & McLennan",
+  "phenom_host": "careers.marshmclennan.com"
+ },
+ {
+  "rank": 169,
+  "name": "Booking Holdings"
+ },
+ {
+  "rank": 170,
+  "name": "McDonald's"
+ },
+ {
+  "rank": 171,
+  "name": "HF Sinclair"
+ },
+ {
+  "rank": 172,
+  "name": "AIG",
+  "workday": [
+   "aig",
+   "wd1",
+   "aig"
+  ]
+ },
+ {
+  "rank": 173,
+  "name": "Occidental Petroleum",
+  "workday": [
+   "oxy",
+   "wd5",
+   "Corporate"
+  ]
+ },
+ {
+  "rank": 174,
+  "name": "Marriott International",
+  "oracle_host": "ejwl.fa.us2.oraclecloud.com",
+  "oracle_site": "CX_1"
+ },
+ {
+  "rank": 175,
+  "name": "Jones Lang LaSalle",
+  "workday": [
+   "jll",
+   "wd1",
+   "jllcareers"
+  ]
+ },
+ {
+  "rank": 176,
+  "name": "International Paper",
+  "oracle_host": "iazbqy.fa.ocs.oraclecloud.com",
+  "oracle_site": "CX_1"
+ },
+ {
+  "rank": 177,
+  "name": "Freeport-McMoRan",
+  "eightfold": "fcx"
+ },
+ {
+  "rank": 178,
+  "name": "Constellation Energy"
+ },
+ {
+  "rank": 179,
+  "name": "Waste Management",
+  "oracle_host": "emcm.fa.us2.oraclecloud.com",
+  "oracle_site": "CX_4001"
+ },
+ {
+  "rank": 180,
+  "name": "Live Nation Entertainment",
+  "workday": [
+   "livenation",
+   "wd503",
+   "LNExternalSite"
+  ]
+ },
+ {
+  "rank": 181,
+  "name": "Stryker",
+  "workday": [
+   "stryker",
+   "wd1",
+   "StrykerCareers"
+  ]
+ },
+ {
+  "rank": 182,
+  "name": "Dollar Tree",
+  "workday": [
+   "dollartree",
+   "wd5",
+   "dollartreeus"
+  ]
+ },
+ {
+  "rank": 183,
+  "name": "3M",
+  "workday": [
+   "3m",
+   "wd1",
+   "Search"
+  ]
+ },
+ {
+  "rank": 184,
+  "name": "Kraft Heinz",
+  "workday": [
+   "heinz",
+   "wd1",
+   "KraftHeinz_Careers"
+  ]
+ },
+ {
+  "rank": 185,
+  "name": "PG&E"
+ },
+ {
+  "rank": 186,
+  "name": "Danaher",
+  "phenom_host": "jobs.danaher.com"
+ },
+ {
+  "rank": 187,
+  "name": "Union Pacific",
+  "phenom_host": "up.jobs"
+ },
+ {
+  "rank": 188,
+  "name": "Genuine Parts"
+ },
+ {
+  "rank": 189,
+  "name": "Exelon"
+ },
+ {
+  "rank": 190,
+  "name": "BlackRock",
+  "workday": [
+   "blackrock",
+   "wd1",
+   "BlackRock_Professional"
+  ]
+ },
+ {
+  "rank": 191,
+  "name": "Block"
+ },
+ {
+  "rank": 192,
+  "name": "Adobe",
+  "phenom_host": "careers.adobe.com"
+ },
+ {
+  "rank": 193,
+  "name": "Reinsurance Group of America"
+ },
+ {
+  "rank": 194,
+  "name": "Sherwin-Williams",
+  "oracle_host": "ejhp.fa.us6.oraclecloud.com",
+  "oracle_site": "CX_1"
+ },
+ {
+  "rank": 195,
+  "name": "WESCO International"
+ },
+ {
+  "rank": 196,
+  "name": "Lear"
+ },
+ {
+  "rank": 197,
+  "name": "Synchrony Financial",
+  "workday": [
+   "synchronyfinancial",
+   "wd5",
+   "careers"
+  ]
+ },
+ {
+  "rank": 198,
+  "name": "Amphenol"
+ },
+ {
+  "rank": 199,
+  "name": "Ross Stores"
+ },
+ {
+  "rank": 200,
+  "name": "Newmont",
+  "phenom_host": "jobs.newmont.com"
+ }
+]
