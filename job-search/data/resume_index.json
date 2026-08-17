@@ -10,18 +10,32 @@
   "rank": 1,
   "families": [
    "data",
-   "supply",
-   "finance"
+   "sdlc",
+   "domain"
   ],
-  "scores": {
-   "data": 28,
-   "supply": 10,
-   "finance": 10,
-   "tech": 7,
-   "sdlc": 6,
-   "stats": 5,
-   "health": 5
-  }
+  "matched": [
+   "Excel",
+   "KPIs",
+   "SQL",
+   "Tableau",
+   "VBA",
+   "ad hoc reporting",
+   "business intelligence",
+   "cross-functional",
+   "data validation",
+   "data visualization",
+   "defect triage",
+   "financial reporting",
+   "forecasting",
+   "healthcare",
+   "integration",
+   "logistics",
+   "reporting",
+   "stakeholder management"
+  ],
+  "n_matched": 18,
+  "gaps": [],
+  "missing_in_doc": []
  },
  {
   "file": "02_CVS_Health_Business_Analyst_Regulatory_Reporting_Solution.docx",
@@ -34,19 +48,28 @@
   "rank": 6,
   "families": [
    "data",
-   "health",
-   "sdlc"
+   "sdlc",
+   "domain"
   ],
-  "scores": {
-   "data": 19,
-   "health": 18,
-   "sdlc": 9,
-   "gov": 8,
-   "finance": 6,
-   "supply": 5,
-   "tech": 1,
-   "cloud": 1
-  }
+  "matched": [
+   "Excel",
+   "SharePoint",
+   "audit",
+   "claims",
+   "compliance",
+   "data validation",
+   "documentation",
+   "healthcare",
+   "payer",
+   "pharmaceutical",
+   "reconciliation",
+   "reporting"
+  ],
+  "n_matched": 12,
+  "gaps": [
+   "Salesforce"
+  ],
+  "missing_in_doc": []
  },
  {
   "file": "03_Morgan_Stanley_Principal_Technical_Business_Analyst.docx",
@@ -58,18 +81,29 @@
   "source": "Workday",
   "rank": 39,
   "families": [
-   "gov",
    "sdlc",
-   "tech"
+   "gov",
+   "data"
   ],
-  "scores": {
-   "gov": 18,
-   "sdlc": 17,
-   "tech": 11,
-   "finance": 7,
-   "data": 3,
-   "stats": 1
-  }
+  "matched": [
+   "Agile",
+   "SQL",
+   "UAT",
+   "audit",
+   "business requirements",
+   "compliance",
+   "data modeling",
+   "data validation",
+   "documentation",
+   "integration",
+   "reporting",
+   "requirements elicitation",
+   "stakeholder management",
+   "user stories"
+  ],
+  "n_matched": 14,
+  "gaps": [],
+  "missing_in_doc": []
  },
  {
   "file": "04_Morgan_Stanley_Junior_Data_Analyst.docx",
@@ -82,16 +116,28 @@
   "rank": 39,
   "families": [
    "data",
-   "finance",
+   "sdlc",
    "gov"
   ],
-  "scores": {
-   "data": 20,
-   "finance": 8,
-   "gov": 7,
-   "sdlc": 3,
-   "tech": 2
-  }
+  "matched": [
+   "Excel",
+   "Python",
+   "SQL",
+   "audit",
+   "compliance",
+   "cross-functional",
+   "data governance",
+   "data quality",
+   "data validation",
+   "reconciliation",
+   "reporting",
+   "stakeholder management"
+  ],
+  "n_matched": 12,
+  "gaps": [
+   "Alteryx"
+  ],
+  "missing_in_doc": []
  },
  {
   "file": "05_GuideWell_Mutual_Holdi_Associate_Health_Business_Analyst_Nautilus_Pro.docx",
@@ -103,19 +149,21 @@
   "source": "Oracle Cloud",
   "rank": 140,
   "families": [
-   "health",
+   "domain",
    "data",
-   "stats"
+   "cloud"
   ],
-  "scores": {
-   "health": 19,
-   "data": 4,
-   "stats": 4,
-   "sdlc": 2,
-   "finance": 2,
-   "tech": 1,
-   "cloud": 1
-  }
+  "matched": [
+   "SQL",
+   "automation",
+   "data visualization",
+   "healthcare"
+  ],
+  "n_matched": 4,
+  "gaps": [
+   "R"
+  ],
+  "missing_in_doc": []
  },
  {
   "file": "06_Cardinal_Health_Business_Analyst.docx",
@@ -128,19 +176,36 @@
   "rank": 15,
   "families": [
    "sdlc",
-   "health",
-   "tech"
+   "domain",
+   "data"
   ],
-  "scores": {
-   "sdlc": 30,
-   "health": 12,
-   "tech": 9,
-   "supply": 3,
-   "data": 2,
-   "gov": 2,
-   "stats": 2,
-   "finance": 1
-  }
+  "matched": [
+   "Agile",
+   "Excel",
+   "PowerPoint",
+   "QA",
+   "SDLC",
+   "acceptance criteria",
+   "audit",
+   "documentation",
+   "functional requirements",
+   "healthcare",
+   "integration",
+   "mentoring",
+   "process flows",
+   "requirements elicitation",
+   "stakeholder management",
+   "test cases",
+   "test plans",
+   "traceability",
+   "use cases",
+   "user stories"
+  ],
+  "n_matched": 20,
+  "gaps": [
+   "Salesforce"
+  ],
+  "missing_in_doc": []
  },
  {
   "file": "07_Citigroup_Lead_IT_Business_Analyst.docx",
@@ -152,18 +217,25 @@
   "source": "Workday",
   "rank": 24,
   "families": [
-   "tech",
-   "gov",
-   "sdlc"
+   "cloud",
+   "data",
+   "gov"
   ],
-  "scores": {
-   "tech": 13,
-   "gov": 6,
-   "sdlc": 3,
-   "cloud": 3,
-   "data": 2,
-   "health": 1
-  }
+  "matched": [
+   "CI/CD",
+   "Python",
+   "automation",
+   "cloud",
+   "compliance",
+   "integration",
+   "mentoring",
+   "reporting"
+  ],
+  "n_matched": 8,
+  "gaps": [
+   "Java"
+  ],
+  "missing_in_doc": []
  },
  {
   "file": "08_Johnson_Johnson_Business_Analyst_Customer_Success_Shockwave_Me.docx",
@@ -175,20 +247,34 @@
   "source": "Workday",
   "rank": 45,
   "families": [
-   "health",
-   "supply",
+   "domain",
+   "sdlc",
    "data"
   ],
-  "scores": {
-   "health": 20,
-   "supply": 11,
-   "data": 8,
-   "sdlc": 7,
-   "finance": 5,
-   "gov": 4,
-   "tech": 2,
-   "stats": 1
-  }
+  "matched": [
+   "Excel",
+   "Power BI",
+   "SAP",
+   "ad hoc reporting",
+   "audit",
+   "capacity modeling",
+   "compliance",
+   "cross-functional",
+   "data validation",
+   "healthcare",
+   "inventory",
+   "logistics",
+   "pharmaceutical",
+   "procurement",
+   "reconciliation",
+   "reporting",
+   "stakeholder management"
+  ],
+  "n_matched": 17,
+  "gaps": [
+   "Salesforce"
+  ],
+  "missing_in_doc": []
  },
  {
   "file": "09_RTX_Data_Analyst_II_Hybrid_Aguadilla_PR.docx",
@@ -200,19 +286,34 @@
   "source": "Workday",
   "rank": 49,
   "families": [
-   "data",
    "sdlc",
-   "tech"
+   "data",
+   "cloud"
   ],
-  "scores": {
-   "data": 16,
-   "sdlc": 10,
-   "tech": 9,
-   "gov": 5,
-   "stats": 5,
-   "supply": 4,
-   "cloud": 2
-  }
+  "matched": [
+   "Agile",
+   "ETL",
+   "PowerPoint",
+   "Python",
+   "SQL",
+   "Tableau",
+   "automation",
+   "compliance",
+   "cross-functional",
+   "data pipelines",
+   "data quality",
+   "data visualization",
+   "documentation",
+   "machine learning",
+   "migration",
+   "statistical analysis",
+   "user stories"
+  ],
+  "n_matched": 17,
+  "gaps": [
+   "Security clearance"
+  ],
+  "missing_in_doc": []
  },
  {
   "file": "10_Albertsons_Lead_Financial_Business_Analyst.docx",
@@ -224,20 +325,28 @@
   "source": "Oracle Cloud",
   "rank": 57,
   "families": [
-   "finance",
    "data",
-   "stats"
+   "sdlc",
+   "gov"
   ],
-  "scores": {
-   "finance": 33,
-   "data": 13,
-   "stats": 10,
-   "tech": 6,
-   "sdlc": 5,
-   "gov": 4,
-   "supply": 4,
-   "health": 3
-  }
+  "matched": [
+   "Excel",
+   "Power BI",
+   "PowerPoint",
+   "SQL",
+   "data integrity",
+   "data stewardship",
+   "data validation",
+   "financial reporting",
+   "forecasting",
+   "healthcare",
+   "integration"
+  ],
+  "n_matched": 11,
+  "gaps": [
+   "Oracle EPM/Hyperion"
+  ],
+  "missing_in_doc": []
  },
  {
   "file": "11_General_Dynamics_SNOW_Data_Analyst_TS_SCI_w_Poly.docx",
@@ -249,19 +358,25 @@
   "source": "Workday",
   "rank": 91,
   "families": [
-   "data",
    "stats",
-   "health"
+   "data",
+   "cloud"
   ],
-  "scores": {
-   "data": 17,
-   "stats": 7,
-   "health": 7,
-   "sdlc": 2,
-   "tech": 1,
-   "cloud": 1,
-   "supply": 1
-  }
+  "matched": [
+   "cloud",
+   "cross-functional",
+   "dashboards",
+   "data modeling",
+   "healthcare",
+   "reporting",
+   "root cause analysis"
+  ],
+  "n_matched": 7,
+  "gaps": [
+   "ServiceNow",
+   "Security clearance"
+  ],
+  "missing_in_doc": []
  },
  {
   "file": "12_General_Dynamics_Senior_Strategic_Business_Analyst_Cloud_Expert.docx",
@@ -274,20 +389,29 @@
   "rank": 91,
   "families": [
    "sdlc",
-   "tech",
-   "cloud"
+   "cloud",
+   "domain"
   ],
-  "scores": {
-   "sdlc": 16,
-   "tech": 12,
-   "cloud": 10,
-   "stats": 6,
-   "data": 5,
-   "supply": 4,
-   "health": 3,
-   "gov": 2,
-   "finance": 1
-  }
+  "matched": [
+   "Agile",
+   "JIRA",
+   "PowerPoint",
+   "SQL",
+   "automation",
+   "cloud",
+   "data validation",
+   "documentation",
+   "financial reporting",
+   "functional requirements",
+   "healthcare",
+   "integration",
+   "mentoring",
+   "migration",
+   "stakeholder management"
+  ],
+  "n_matched": 15,
+  "gaps": [],
+  "missing_in_doc": []
  },
  {
   "file": "13_Waste_Management_Business_Analyst_III.docx",
@@ -299,19 +423,24 @@
   "source": "Oracle Cloud",
   "rank": 179,
   "families": [
-   "sdlc",
    "data",
+   "sdlc",
    "stats"
   ],
-  "scores": {
-   "sdlc": 6,
-   "data": 5,
-   "stats": 2,
-   "supply": 2,
-   "tech": 1,
-   "finance": 1,
-   "health": 1
-  }
+  "matched": [
+   "Power BI",
+   "business intelligence",
+   "cross-functional",
+   "data visualization",
+   "reporting",
+   "root cause analysis",
+   "stakeholder management"
+  ],
+  "n_matched": 7,
+  "gaps": [
+   "Six Sigma"
+  ],
+  "missing_in_doc": []
  },
  {
   "file": "14_JPMorgan_Chase_AWM_Product_Owner_Business_Analyst.docx",
@@ -324,16 +453,27 @@
   "rank": 12,
   "families": [
    "sdlc",
-   "tech",
+   "cloud",
    "data"
   ],
-  "scores": {
-   "sdlc": 15,
-   "tech": 13,
-   "data": 9,
-   "supply": 4,
-   "gov": 1
-  }
+  "matched": [
+   "SQL",
+   "Tableau",
+   "UAT",
+   "acceptance criteria",
+   "business requirements",
+   "migration",
+   "process flows",
+   "reporting",
+   "stakeholder management",
+   "test plans",
+   "user stories"
+  ],
+  "n_matched": 11,
+  "gaps": [
+   "Alteryx"
+  ],
+  "missing_in_doc": []
  },
  {
   "file": "15_Cardinal_Health_Senior_Data_Analyst.docx",
@@ -345,21 +485,35 @@
   "source": "Workday",
   "rank": 15,
   "families": [
-   "data",
-   "health",
-   "sdlc"
+   "sdlc",
+   "domain",
+   "data"
   ],
-  "scores": {
-   "data": 19,
-   "health": 12,
-   "sdlc": 11,
-   "finance": 9,
-   "stats": 6,
-   "tech": 3,
-   "cloud": 3,
-   "supply": 2,
-   "gov": 1
-  }
+  "matched": [
+   "Agile",
+   "Python",
+   "SQL",
+   "Scrum",
+   "Tableau",
+   "automation",
+   "cloud",
+   "cross-functional",
+   "data modeling",
+   "data validation",
+   "data visualization",
+   "forecasting",
+   "healthcare",
+   "mentoring",
+   "reporting",
+   "stakeholder management"
+  ],
+  "n_matched": 16,
+  "gaps": [
+   "R",
+   "Looker",
+   "Databricks"
+  ],
+  "missing_in_doc": []
  },
  {
   "file": "16_Cardinal_Health_Business_Analyst.docx",
@@ -372,18 +526,31 @@
   "rank": 15,
   "families": [
    "sdlc",
-   "tech",
-   "health"
+   "domain",
+   "data"
   ],
-  "scores": {
-   "sdlc": 19,
-   "tech": 13,
-   "health": 10,
-   "data": 3,
-   "supply": 2,
-   "gov": 1,
-   "stats": 1
-  }
+  "matched": [
+   "Agile",
+   "Excel",
+   "PowerPoint",
+   "QA",
+   "SDLC",
+   "UAT",
+   "business requirements",
+   "documentation",
+   "healthcare",
+   "integration",
+   "mentoring",
+   "process flows",
+   "requirements elicitation",
+   "stakeholder management",
+   "test cases"
+  ],
+  "n_matched": 15,
+  "gaps": [
+   "Salesforce"
+  ],
+  "missing_in_doc": []
  },
  {
   "file": "17_Cardinal_Health_Consultant_IT_Product_Implementation_Business.docx",
@@ -396,19 +563,35 @@
   "rank": 15,
   "families": [
    "sdlc",
-   "health",
-   "tech"
+   "domain",
+   "data"
   ],
-  "scores": {
-   "sdlc": 32,
-   "health": 11,
-   "tech": 10,
-   "data": 2,
-   "gov": 2,
-   "stats": 2,
-   "supply": 2,
-   "finance": 1
-  }
+  "matched": [
+   "Agile",
+   "Excel",
+   "PowerPoint",
+   "QA",
+   "SDLC",
+   "acceptance criteria",
+   "audit",
+   "documentation",
+   "functional requirements",
+   "healthcare",
+   "integration",
+   "process flows",
+   "requirements elicitation",
+   "stakeholder management",
+   "test cases",
+   "test plans",
+   "traceability",
+   "use cases",
+   "user stories"
+  ],
+  "n_matched": 19,
+  "gaps": [
+   "Salesforce"
+  ],
+  "missing_in_doc": []
  },
  {
   "file": "18_General_Motors_Safety_Field_Investigations_Data_Analyst.docx",
@@ -421,20 +604,38 @@
   "rank": 23,
   "families": [
    "data",
-   "tech",
-   "cloud"
+   "cloud",
+   "sdlc"
   ],
-  "scores": {
-   "data": 28,
-   "tech": 12,
-   "cloud": 6,
-   "stats": 4,
-   "supply": 3,
-   "finance": 3,
-   "sdlc": 2,
-   "gov": 2,
-   "health": 1
-  }
+  "matched": [
+   "Excel",
+   "Power BI",
+   "Python",
+   "SQL",
+   "Tableau",
+   "automation",
+   "cross-functional",
+   "dashboards",
+   "data governance",
+   "data modeling",
+   "data pipelines",
+   "data quality",
+   "data validation",
+   "data visualization",
+   "documentation",
+   "integration",
+   "migration",
+   "reporting",
+   "scorecards",
+   "self-service",
+   "stakeholder management"
+  ],
+  "n_matched": 21,
+  "gaps": [
+   "Databricks",
+   "Hadoop"
+  ],
+  "missing_in_doc": []
  },
  {
   "file": "19_Capital_One_Financial_Senior_Business_Analyst_Credit_Loss_Forecast.docx",
@@ -446,21 +647,20 @@
   "source": "Workday",
   "rank": 63,
   "families": [
-   "tech",
    "stats",
-   "finance"
+   "data",
+   "gov"
   ],
-  "scores": {
-   "tech": 21,
-   "stats": 17,
-   "finance": 11,
-   "data": 6,
-   "health": 4,
-   "cloud": 3,
-   "supply": 2,
-   "sdlc": 1,
-   "gov": 1
-  }
+  "matched": [
+   "SQL",
+   "compliance",
+   "forecasting",
+   "healthcare",
+   "statistical analysis"
+  ],
+  "n_matched": 5,
+  "gaps": [],
+  "missing_in_doc": []
  },
  {
   "file": "20_Abbott_Laboratories_OpEx_Data_Analyst_I.docx",
@@ -472,21 +672,34 @@
   "source": "Workday",
   "rank": 107,
   "families": [
-   "health",
-   "data",
-   "cloud"
+   "cloud",
+   "domain",
+   "stats"
   ],
-  "scores": {
-   "health": 19,
-   "data": 12,
-   "cloud": 10,
-   "tech": 8,
-   "gov": 7,
-   "stats": 5,
-   "finance": 3,
-   "sdlc": 2,
-   "supply": 2
-  }
+  "matched": [
+   "SAP",
+   "automation",
+   "capacity modeling",
+   "cloud",
+   "compliance",
+   "dashboards",
+   "data governance",
+   "data pipelines",
+   "data visualization",
+   "documentation",
+   "healthcare",
+   "integration",
+   "machine learning",
+   "reporting",
+   "root cause analysis",
+   "statistical analysis",
+   "use cases"
+  ],
+  "n_matched": 17,
+  "gaps": [
+   "Databricks"
+  ],
+  "missing_in_doc": []
  },
  {
   "file": "21_U_S_Bancorp_Marketing_Data_Analyst.docx",
@@ -498,18 +711,19 @@
   "source": "Workday",
   "rank": 110,
   "families": [
-   "finance",
-   "health",
-   "tech"
+   "sdlc",
+   "domain",
+   "data"
   ],
-  "scores": {
-   "finance": 6,
-   "health": 6,
-   "tech": 5,
-   "sdlc": 2,
-   "data": 1,
-   "cloud": 1
-  }
+  "matched": [
+   "Excel",
+   "SAFe",
+   "healthcare",
+   "migration"
+  ],
+  "n_matched": 4,
+  "gaps": [],
+  "missing_in_doc": []
  },
  {
   "file": "22_Leidos_Holdings_Data_Analyst.docx",
@@ -521,18 +735,26 @@
   "source": "Workday",
   "rank": 260,
   "families": [
-   "data",
-   "tech",
-   "stats"
+   "sdlc",
+   "stats",
+   "data"
   ],
-  "scores": {
-   "data": 13,
-   "tech": 8,
-   "stats": 8,
-   "sdlc": 5,
-   "supply": 4,
-   "cloud": 1
-  }
+  "matched": [
+   "Agile",
+   "Python",
+   "Scrum",
+   "cross-functional",
+   "data validation",
+   "data visualization",
+   "integration",
+   "logistics",
+   "machine learning",
+   "statistical analysis",
+   "test plans"
+  ],
+  "n_matched": 11,
+  "gaps": [],
+  "missing_in_doc": []
  },
  {
   "file": "23_Markel_Group_Senior_Lead_Business_Analyst_Oracle_EPM_Report.docx",
@@ -544,20 +766,34 @@
   "source": "Workday",
   "rank": 270,
   "families": [
-   "finance",
    "data",
-   "sdlc"
+   "sdlc",
+   "cloud"
   ],
-  "scores": {
-   "finance": 35,
-   "data": 34,
-   "sdlc": 10,
-   "tech": 8,
-   "cloud": 6,
-   "gov": 3,
-   "health": 3,
-   "supply": 1
-  }
+  "matched": [
+   "Agile",
+   "Power BI",
+   "PowerPoint",
+   "SAP",
+   "audit",
+   "automation",
+   "business requirements",
+   "cross-functional",
+   "dashboards",
+   "data validation",
+   "documentation",
+   "healthcare",
+   "integration",
+   "mentoring",
+   "reconciliation",
+   "reporting",
+   "stakeholder management"
+  ],
+  "n_matched": 17,
+  "gaps": [
+   "Oracle EPM/Hyperion"
+  ],
+  "missing_in_doc": []
  },
  {
   "file": "24_Kyndryl_Holdings_Data_Analyst.docx",
@@ -570,18 +806,30 @@
   "rank": 300,
   "families": [
    "data",
-   "tech",
-   "sdlc"
+   "sdlc",
+   "cloud"
   ],
-  "scores": {
-   "data": 19,
-   "tech": 6,
-   "sdlc": 4,
-   "cloud": 4,
-   "stats": 3,
-   "health": 3,
-   "finance": 1
-  }
+  "matched": [
+   "Power BI",
+   "PowerPoint",
+   "Python",
+   "SQL",
+   "business intelligence",
+   "cloud",
+   "cross-functional",
+   "data visualization",
+   "defect triage",
+   "root cause analysis",
+   "stakeholder management",
+   "statistical analysis"
+  ],
+  "n_matched": 12,
+  "gaps": [
+   "R",
+   "Looker",
+   "Six Sigma"
+  ],
+  "missing_in_doc": []
  },
  {
   "file": "25_Kyndryl_Holdings_Business_Analyst.docx",
@@ -593,16 +841,19 @@
   "source": "Workday",
   "rank": 300,
   "families": [
-   "sdlc",
-   "tech",
-   "data"
+   "sdlc"
   ],
-  "scores": {
-   "sdlc": 10,
-   "tech": 6,
-   "data": 1,
-   "health": 1
-  }
+  "matched": [
+   "UAT",
+   "business requirements",
+   "documentation",
+   "gap analysis",
+   "process flows",
+   "stakeholder management"
+  ],
+  "n_matched": 6,
+  "gaps": [],
+  "missing_in_doc": []
  },
  {
   "file": "26_Amazon_Communications_Business_Analyst_Operations_Int.docx",
@@ -615,18 +866,35 @@
   "rank": 1,
   "families": [
    "data",
-   "tech",
-   "supply"
+   "cloud",
+   "sdlc"
   ],
-  "scores": {
-   "data": 33,
-   "tech": 7,
-   "supply": 7,
-   "sdlc": 6,
-   "cloud": 4,
-   "stats": 2,
-   "health": 2
-  }
+  "matched": [
+   "Excel",
+   "KPIs",
+   "Power BI",
+   "Python",
+   "SQL",
+   "Tableau",
+   "ad hoc reporting",
+   "automation",
+   "business intelligence",
+   "business requirements",
+   "cross-functional",
+   "dashboards",
+   "data pipelines",
+   "data visualization",
+   "data warehouse",
+   "healthcare",
+   "integration",
+   "machine learning",
+   "reporting",
+   "stakeholder management",
+   "statistical analysis"
+  ],
+  "n_matched": 21,
+  "gaps": [],
+  "missing_in_doc": []
  },
  {
   "file": "27_Amazon_Business_Analyst_III_AMZ10666414.docx",
@@ -638,20 +906,35 @@
   "source": "amazon.jobs",
   "rank": 1,
   "families": [
-   "data",
    "stats",
-   "sdlc"
+   "data",
+   "cloud"
   ],
-  "scores": {
-   "data": 19,
-   "stats": 18,
-   "sdlc": 5,
-   "tech": 5,
-   "supply": 4,
-   "finance": 4,
-   "gov": 1,
-   "cloud": 1
-  }
+  "matched": [
+   "ETL",
+   "Excel",
+   "KPIs",
+   "Python",
+   "SAS",
+   "SQL",
+   "automation",
+   "business intelligence",
+   "business requirements",
+   "data integrity",
+   "data validation",
+   "forecasting",
+   "predictive modeling",
+   "regression",
+   "reporting",
+   "stakeholder management",
+   "statistical analysis"
+  ],
+  "n_matched": 17,
+  "gaps": [
+   "R",
+   "SPSS"
+  ],
+  "missing_in_doc": []
  },
  {
   "file": "28_Amazon_Business_Analyst_Fuse_Billing_Operations.docx",
@@ -664,20 +947,29 @@
   "rank": 1,
   "families": [
    "data",
-   "supply",
-   "finance"
+   "sdlc",
+   "stats"
   ],
-  "scores": {
-   "data": 15,
-   "supply": 6,
-   "finance": 6,
-   "sdlc": 4,
-   "health": 3,
-   "gov": 2,
-   "tech": 2,
-   "cloud": 2,
-   "stats": 1
-  }
+  "matched": [
+   "Excel",
+   "SQL",
+   "Tableau",
+   "VBA",
+   "business intelligence",
+   "cloud",
+   "cross-functional",
+   "data visualization",
+   "defect triage",
+   "financial reporting",
+   "healthcare",
+   "reconciliation",
+   "reporting",
+   "root cause analysis",
+   "stakeholder management"
+  ],
+  "n_matched": 15,
+  "gaps": [],
+  "missing_in_doc": []
  },
  {
   "file": "29_Amazon_Senior_Business_Analyst_Seller_External_Relati.docx",
@@ -691,15 +983,25 @@
   "families": [
    "data",
    "sdlc",
-   "gov"
+   "domain"
   ],
-  "scores": {
-   "data": 19,
-   "sdlc": 3,
-   "gov": 3,
-   "finance": 3,
-   "health": 3
-  }
+  "matched": [
+   "Excel",
+   "Power BI",
+   "SQL",
+   "Tableau",
+   "automation",
+   "business intelligence",
+   "claims",
+   "cross-functional",
+   "data visualization",
+   "healthcare",
+   "reporting",
+   "stakeholder management"
+  ],
+  "n_matched": 12,
+  "gaps": [],
+  "missing_in_doc": []
  },
  {
   "file": "30_Capital_One_Financial_Senior_Business_Analyst_Credit_Reporting_Perfo.docx",
@@ -711,21 +1013,20 @@
   "source": "Workday",
   "rank": 63,
   "families": [
-   "tech",
+   "data",
    "stats",
-   "data"
+   "gov"
   ],
-  "scores": {
-   "tech": 23,
-   "stats": 14,
-   "data": 11,
-   "finance": 8,
-   "health": 4,
-   "cloud": 3,
-   "supply": 3,
-   "sdlc": 1,
-   "gov": 1
-  }
+  "matched": [
+   "SQL",
+   "compliance",
+   "healthcare",
+   "reporting",
+   "statistical analysis"
+  ],
+  "n_matched": 5,
+  "gaps": [],
+  "missing_in_doc": []
  },
  {
   "file": "31_U_S_Bancorp_Business_Analyst_Reconciliation_and_Payment_Te.docx",
@@ -738,20 +1039,30 @@
   "rank": 110,
   "families": [
    "sdlc",
-   "tech",
-   "data"
+   "data",
+   "gov"
   ],
-  "scores": {
-   "sdlc": 17,
-   "tech": 15,
-   "data": 11,
-   "finance": 9,
-   "supply": 8,
-   "health": 8,
-   "gov": 3,
-   "cloud": 1,
-   "stats": 1
-  }
+  "matched": [
+   "Excel",
+   "SAFe",
+   "UAT",
+   "audit",
+   "cross-functional",
+   "dashboards",
+   "defect triage",
+   "documentation",
+   "future state",
+   "governance tooling",
+   "healthcare",
+   "migration",
+   "reconciliation",
+   "reporting",
+   "stakeholder management",
+   "test plans"
+  ],
+  "n_matched": 16,
+  "gaps": [],
+  "missing_in_doc": []
  },
  {
   "file": "32_State_Street_Technical_Business_Analyst_AVP.docx",
@@ -763,18 +1074,26 @@
   "source": "Workday",
   "rank": 202,
   "families": [
-   "sdlc",
-   "tech",
-   "supply"
+   "sdlc"
   ],
-  "scores": {
-   "sdlc": 21,
-   "tech": 15,
-   "supply": 3,
-   "health": 2,
-   "data": 1,
-   "stats": 1
-  }
+  "matched": [
+   "Agile",
+   "SDLC",
+   "UAT",
+   "Waterfall",
+   "business requirements",
+   "data validation",
+   "defect triage",
+   "documentation",
+   "functional requirements",
+   "non-functional requirements",
+   "process flows",
+   "stakeholder management",
+   "test cases"
+  ],
+  "n_matched": 13,
+  "gaps": [],
+  "missing_in_doc": []
  },
  {
   "file": "33_McKesson_Sr_SAP_Vistex_Business_Analyst.docx",
@@ -786,18 +1105,26 @@
   "source": "Workday",
   "rank": 8,
   "families": [
-   "health",
    "tech",
-   "sdlc"
+   "sdlc",
+   "domain"
   ],
-  "scores": {
-   "health": 13,
-   "tech": 11,
-   "sdlc": 8,
-   "data": 2,
-   "gov": 1,
-   "supply": 1
-  }
+  "matched": [
+   "QA",
+   "SAP",
+   "data validation",
+   "defect triage",
+   "documentation",
+   "functional requirements",
+   "healthcare",
+   "integration",
+   "reporting",
+   "stakeholder management",
+   "traceability"
+  ],
+  "n_matched": 11,
+  "gaps": [],
+  "missing_in_doc": []
  },
  {
   "file": "34_Freddie_Mac_Single_Family_Business_Analyst.docx",
@@ -809,20 +1136,22 @@
   "source": "Workday",
   "rank": 33,
   "families": [
-   "data",
    "sdlc",
+   "cloud",
    "gov"
   ],
-  "scores": {
-   "data": 5,
-   "sdlc": 3,
-   "gov": 3,
-   "tech": 3,
-   "finance": 3,
-   "cloud": 2,
-   "health": 2,
-   "stats": 1
-  }
+  "matched": [
+   "PowerPoint",
+   "SAFe",
+   "automation",
+   "business requirements",
+   "compliance",
+   "mentoring",
+   "statistical analysis"
+  ],
+  "n_matched": 7,
+  "gaps": [],
+  "missing_in_doc": []
  },
  {
   "file": "35_State_Street_Alpha_Data_Services_Senior_Implementation_Busi.docx",
@@ -834,20 +1163,34 @@
   "source": "Workday",
   "rank": 202,
   "families": [
-   "tech",
    "sdlc",
+   "cloud",
    "data"
   ],
-  "scores": {
-   "tech": 22,
-   "sdlc": 8,
-   "data": 8,
-   "gov": 6,
-   "finance": 6,
-   "health": 5,
-   "cloud": 4,
-   "stats": 1,
-   "supply": 1
-  }
+  "matched": [
+   "Agile",
+   "ETL",
+   "Excel",
+   "JIRA",
+   "PowerPoint",
+   "SQL",
+   "Snowflake",
+   "Visio",
+   "business requirements",
+   "cloud",
+   "data governance",
+   "data lineage",
+   "data modeling",
+   "data quality",
+   "data validation",
+   "data warehouse",
+   "documentation",
+   "integration",
+   "reconciliation",
+   "reporting"
+  ],
+  "n_matched": 20,
+  "gaps": [],
+  "missing_in_doc": []
  }
 ]
