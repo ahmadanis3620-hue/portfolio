@@ -1,0 +1,127 @@
+[
+ {
+  "idx": 1,
+  "company": "General Dynamics",
+  "title": "ServiceNow Business Analyst",
+  "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Rockville/ServiceNow-Business-Analyst_RQ231227",
+  "applyUrl": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Rockville/ServiceNow-Business-Analyst_RQ231227/apply",
+  "status": 200,
+  "wall": null,
+  "fields": [],
+  "notes": []
+ },
+ {
+  "idx": 2,
+  "company": "Amazon",
+  "title": "Business Analyst II, GSRC Analytics",
+  "url": "https://www.amazon.jobs/en/jobs/10593009/business-analyst-ii-gsrc-analytics",
+  "applyUrl": "https://www.amazon.jobs/en/jobs/10593009/business-analyst-ii-gsrc-analytics",
+  "status": 200,
+  "wall": null,
+  "fields": [
+   {
+    "tag": "input",
+    "type": "text",
+    "required": false,
+    "label": "Search for jobs by title or keyword"
+   },
+   {
+    "tag": "input",
+    "type": "text",
+    "required": false,
+    "label": "Location"
+   }
+  ],
+  "notes": []
+ },
+ {
+  "idx": 3,
+  "company": "Amazon",
+  "title": "Business Analyst, AMZL UTR PPT",
+  "url": "https://www.amazon.jobs/en/jobs/10593114/business-analyst-amzl-utr-ppt",
+  "applyUrl": "https://www.amazon.jobs/en/jobs/10593114/business-analyst-amzl-utr-ppt",
+  "status": 200,
+  "wall": "account required",
+  "fields": [
+   {
+    "tag": "input",
+    "type": "text",
+    "required": false,
+    "label": "Search for jobs by title or keyword"
+   },
+   {
+    "tag": "input",
+    "type": "text",
+    "required": false,
+    "label": "Location"
+   }
+  ],
+  "notes": []
+ },
+ {
+  "idx": 4,
+  "company": "Nvidia",
+  "title": "Senior Revenue and Pricing Business Analyst",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Revenue-and-Pricing-Business-Analyst_JR2028044-1",
+  "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Revenue-and-Pricing-Business-Analyst_JR2028044-1/apply",
+  "status": 200,
+  "wall": "account required",
+  "fields": [],
+  "notes": []
+ },
+ {
+  "idx": 5,
+  "company": "Marathon Petroleum",
+  "title": "Senior Data Analyst",
+  "url": "https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Senior-Data-Analyst_00025012",
+  "applyUrl": "https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Senior-Data-Analyst_00025012/apply",
+  "status": 200,
+  "wall": "account required",
+  "fields": [],
+  "notes": []
+ },
+ {
+  "idx": 6,
+  "company": "Target",
+  "title": "Sr Data Analyst - Marketing Analytics",
+  "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Sr-Data-Analyst---Marketing-Analytics_R0000450976",
+  "applyUrl": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Sr-Data-Analyst---Marketing-Analytics_R0000450976/apply",
+  "status": 200,
+  "wall": "account required",
+  "fields": [],
+  "notes": []
+ },
+ {
+  "idx": 7,
+  "company": "RTX",
+  "title": "Naval Power Engineering Business Analyst Manager",
+  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-9030--9030-S-Rita-Rd--BLDG-9030/Naval-Power-Engineering-Business-Analyst-Manager_01885451",
+  "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-9030--9030-S-Rita-Rd--BLDG-9030/Naval-Power-Engineering-Business-Analyst-Manager_01885451/apply",
+  "status": 200,
+  "wall": "account required",
+  "fields": [],
+  "notes": []
+ },
+ {
+  "idx": 8,
+  "company": "U.S. Bancorp",
+  "title": "Freight Business Analyst",
+  "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Naperville-IL/Freight-Business-Analyst_2026-0030212",
+  "applyUrl": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Naperville-IL/Freight-Business-Analyst_2026-0030212/apply",
+  "status": 200,
+  "wall": "account required",
+  "fields": [],
+  "notes": []
+ },
+ {
+  "idx": 9,
+  "company": "State Street",
+  "title": "Alpha Product Business Analyst",
+  "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Alpha-Product-Business-Analyst_R-800489",
+  "applyUrl": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Alpha-Product-Business-Analyst_R-800489/apply",
+  "status": 200,
+  "wall": "account required",
+  "fields": [],
+  "notes": []
+ }
+]

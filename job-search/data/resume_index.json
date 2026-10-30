@@ -1,377 +1,35 @@
 [
  {
-  "file": "01_Amazon_Business_Analyst_II_Network_Balance_and_Equipm.docx",
-  "company": "Amazon",
-  "title": "Business Analyst II, Network Balance and Equipment Optimization (NBEO)",
-  "location": "Bellevue, Washington, USA",
-  "start_date": "2026-08-14",
-  "url": "https://www.amazon.jobs/en/jobs/10502383/business-analyst-ii-network-balance-and-equipment-optimization-nbeo",
-  "source": "amazon.jobs",
-  "rank": 1,
-  "families": [
-   "data",
-   "sdlc",
-   "domain"
-  ],
-  "matched": [
-   "Excel",
-   "KPIs",
-   "SQL",
-   "Tableau",
-   "VBA",
-   "ad hoc reporting",
-   "business intelligence",
-   "cross-functional",
-   "data validation",
-   "data visualization",
-   "defect triage",
-   "financial reporting",
-   "forecasting",
-   "healthcare",
-   "integration",
-   "logistics",
-   "reporting",
-   "stakeholder management"
-  ],
-  "n_matched": 18,
-  "gaps": [],
-  "missing_in_doc": []
- },
- {
-  "file": "02_CVS_Health_Business_Analyst_Regulatory_Reporting_Solution.docx",
-  "company": "CVS Health",
-  "title": "Business Analyst, Regulatory Reporting Solutions (Remote)",
-  "location": "AZ - Work from home",
-  "start_date": "2026-08-14",
-  "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Work-from-home/Business-Analyst--Regulatory-Reporting-Solutions--Remote-_R0935742",
+  "file": "01_General_Dynamics_ServiceNow_Business_Analyst.docx",
+  "company": "General Dynamics",
+  "title": "ServiceNow Business Analyst",
+  "location": "USA MD Rockville",
+  "start_date": "2026-10-30",
+  "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Rockville/ServiceNow-Business-Analyst_RQ231227",
   "source": "Workday",
-  "rank": 6,
-  "families": [
-   "data",
-   "sdlc",
-   "domain"
-  ],
-  "matched": [
-   "Excel",
-   "SharePoint",
-   "audit",
-   "claims",
-   "compliance",
-   "data validation",
-   "documentation",
-   "healthcare",
-   "payer",
-   "pharmaceutical",
-   "reconciliation",
-   "reporting"
-  ],
-  "n_matched": 12,
-  "gaps": [
-   "Salesforce"
-  ],
-  "missing_in_doc": []
- },
- {
-  "file": "03_Morgan_Stanley_Principal_Technical_Business_Analyst.docx",
-  "company": "Morgan Stanley",
-  "title": "Principal, Technical Business Analyst",
-  "location": "New York, New York, United States of America",
-  "start_date": "2026-08-14",
-  "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Lead-Business-Analyst_PT-JR041640-1",
-  "source": "Workday",
-  "rank": 39,
+  "rank": 91,
   "families": [
    "sdlc",
-   "gov",
+   "domain",
    "data"
   ],
   "matched": [
    "Agile",
-   "SQL",
-   "UAT",
-   "audit",
+   "SAP",
+   "acceptance criteria",
    "business requirements",
-   "compliance",
-   "data modeling",
+   "cloud",
+   "cross-functional",
+   "dashboards",
    "data validation",
    "documentation",
-   "integration",
-   "reporting",
-   "requirements elicitation",
+   "functional requirements",
+   "healthcare",
+   "process flows",
    "stakeholder management",
    "user stories"
   ],
   "n_matched": 14,
-  "gaps": [],
-  "missing_in_doc": []
- },
- {
-  "file": "04_Morgan_Stanley_Junior_Data_Analyst.docx",
-  "company": "Morgan Stanley",
-  "title": "Junior Data Analyst",
-  "location": "Dallas, Texas, United States of America",
-  "start_date": "2026-08-14",
-  "url": "https://ms.wd5.myworkdayjobs.com/External/job/Dallas-Texas-United-States-of-America/Data-Analyst_PT-JR040220",
-  "source": "Workday",
-  "rank": 39,
-  "families": [
-   "data",
-   "sdlc",
-   "gov"
-  ],
-  "matched": [
-   "Excel",
-   "Python",
-   "SQL",
-   "audit",
-   "compliance",
-   "cross-functional",
-   "data governance",
-   "data quality",
-   "data validation",
-   "reconciliation",
-   "reporting",
-   "stakeholder management"
-  ],
-  "n_matched": 12,
-  "gaps": [
-   "Alteryx"
-  ],
-  "missing_in_doc": []
- },
- {
-  "file": "05_GuideWell_Mutual_Holdi_Associate_Health_Business_Analyst_Nautilus_Pro.docx",
-  "company": "GuideWell Mutual Holding",
-  "title": "Associate Health Business Analyst - Nautilus Program",
-  "location": "Jacksonville, FL, United States",
-  "start_date": "2026-08-14",
-  "url": "https://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com",
-  "source": "Oracle Cloud",
-  "rank": 140,
-  "families": [
-   "domain",
-   "data",
-   "cloud"
-  ],
-  "matched": [
-   "SQL",
-   "automation",
-   "data visualization",
-   "healthcare"
-  ],
-  "n_matched": 4,
-  "gaps": [
-   "R"
-  ],
-  "missing_in_doc": []
- },
- {
-  "file": "06_Cardinal_Health_Business_Analyst.docx",
-  "company": "Cardinal Health",
-  "title": "Business Analyst",
-  "location": "US-Nationwide-FIELD",
-  "start_date": "2026-08-13",
-  "url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/Business-Analyst_20185208-2",
-  "source": "Workday",
-  "rank": 15,
-  "families": [
-   "sdlc",
-   "domain",
-   "data"
-  ],
-  "matched": [
-   "Agile",
-   "Excel",
-   "PowerPoint",
-   "QA",
-   "SDLC",
-   "acceptance criteria",
-   "audit",
-   "documentation",
-   "functional requirements",
-   "healthcare",
-   "integration",
-   "mentoring",
-   "process flows",
-   "requirements elicitation",
-   "stakeholder management",
-   "test cases",
-   "test plans",
-   "traceability",
-   "use cases",
-   "user stories"
-  ],
-  "n_matched": 20,
-  "gaps": [
-   "Salesforce"
-  ],
-  "missing_in_doc": []
- },
- {
-  "file": "07_Citigroup_Lead_IT_Business_Analyst.docx",
-  "company": "Citigroup",
-  "title": "Lead IT Business Analyst",
-  "location": "Jacksonville Florida United States",
-  "start_date": "2026-08-13",
-  "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Lead-IT-Business-Analyst_26985716",
-  "source": "Workday",
-  "rank": 24,
-  "families": [
-   "cloud",
-   "data",
-   "gov"
-  ],
-  "matched": [
-   "CI/CD",
-   "Python",
-   "automation",
-   "cloud",
-   "compliance",
-   "integration",
-   "mentoring",
-   "reporting"
-  ],
-  "n_matched": 8,
-  "gaps": [
-   "Java"
-  ],
-  "missing_in_doc": []
- },
- {
-  "file": "08_Johnson_Johnson_Business_Analyst_Customer_Success_Shockwave_Me.docx",
-  "company": "Johnson & Johnson",
-  "title": "Business Analyst - Customer Success - Shockwave Medical",
-  "location": "Santa Clara, California, United States of America",
-  "start_date": "2026-08-13",
-  "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Business-Analyst---Customer-Success---Shockwave-Medical_R-081115-1",
-  "source": "Workday",
-  "rank": 45,
-  "families": [
-   "domain",
-   "sdlc",
-   "data"
-  ],
-  "matched": [
-   "Excel",
-   "Power BI",
-   "SAP",
-   "ad hoc reporting",
-   "audit",
-   "capacity modeling",
-   "compliance",
-   "cross-functional",
-   "data validation",
-   "healthcare",
-   "inventory",
-   "logistics",
-   "pharmaceutical",
-   "procurement",
-   "reconciliation",
-   "reporting",
-   "stakeholder management"
-  ],
-  "n_matched": 17,
-  "gaps": [
-   "Salesforce"
-  ],
-  "missing_in_doc": []
- },
- {
-  "file": "09_RTX_Data_Analyst_II_Hybrid_Aguadilla_PR.docx",
-  "company": "RTX",
-  "title": "Data Analyst II (Hybrid - Aguadilla, PR)",
-  "location": "US-PR-AGUADILLA-110 ~ Rd 110 N Km 28.8 ~ RD110",
-  "start_date": "2026-08-13",
-  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Data-Analyst-II--Hybrid---Aguadilla--PR-_01841221",
-  "source": "Workday",
-  "rank": 49,
-  "families": [
-   "sdlc",
-   "data",
-   "cloud"
-  ],
-  "matched": [
-   "Agile",
-   "ETL",
-   "PowerPoint",
-   "Python",
-   "SQL",
-   "Tableau",
-   "automation",
-   "compliance",
-   "cross-functional",
-   "data pipelines",
-   "data quality",
-   "data visualization",
-   "documentation",
-   "machine learning",
-   "migration",
-   "statistical analysis",
-   "user stories"
-  ],
-  "n_matched": 17,
-  "gaps": [
-   "Security clearance"
-  ],
-  "missing_in_doc": []
- },
- {
-  "file": "10_Albertsons_Lead_Financial_Business_Analyst.docx",
-  "company": "Albertsons",
-  "title": "Lead Financial Business Analyst",
-  "location": "Pleasanton, CA, United States",
-  "start_date": "2026-08-13",
-  "url": "https://careers.albertsons.com/",
-  "source": "Oracle Cloud",
-  "rank": 57,
-  "families": [
-   "data",
-   "sdlc",
-   "gov"
-  ],
-  "matched": [
-   "Excel",
-   "Power BI",
-   "PowerPoint",
-   "SQL",
-   "data integrity",
-   "data stewardship",
-   "data validation",
-   "financial reporting",
-   "forecasting",
-   "healthcare",
-   "integration"
-  ],
-  "n_matched": 11,
-  "gaps": [
-   "Oracle EPM/Hyperion"
-  ],
-  "missing_in_doc": []
- },
- {
-  "file": "11_General_Dynamics_SNOW_Data_Analyst_TS_SCI_w_Poly.docx",
-  "company": "General Dynamics",
-  "title": "SNOW Data Analyst -  TS/SCI w/Poly",
-  "location": "USA MD Annapolis Junction",
-  "start_date": "2026-08-13",
-  "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Annapolis-Junction/SNOW-Data-Analyst----TS-SCI-w-Poly_RQ226401-1",
-  "source": "Workday",
-  "rank": 91,
-  "families": [
-   "stats",
-   "data",
-   "cloud"
-  ],
-  "matched": [
-   "cloud",
-   "cross-functional",
-   "dashboards",
-   "data modeling",
-   "healthcare",
-   "reporting",
-   "root cause analysis"
-  ],
-  "n_matched": 7,
   "gaps": [
    "ServiceNow",
    "Security clearance"
@@ -379,624 +37,182 @@
   "missing_in_doc": []
  },
  {
-  "file": "12_General_Dynamics_Senior_Strategic_Business_Analyst_Cloud_Expert.docx",
-  "company": "General Dynamics",
-  "title": "Senior Strategic Business Analyst - Cloud Expertise",
-  "location": "Any Location / Remote",
-  "start_date": "2026-08-13",
-  "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Senior-Strategic-Business-Analyst---Cloud-Expertise_RQ226088",
-  "source": "Workday",
-  "rank": 91,
-  "families": [
-   "sdlc",
-   "cloud",
-   "domain"
-  ],
-  "matched": [
-   "Agile",
-   "JIRA",
-   "PowerPoint",
-   "SQL",
-   "automation",
-   "cloud",
-   "data validation",
-   "documentation",
-   "financial reporting",
-   "functional requirements",
-   "healthcare",
-   "integration",
-   "mentoring",
-   "migration",
-   "stakeholder management"
-  ],
-  "n_matched": 15,
-  "gaps": [],
-  "missing_in_doc": []
- },
- {
-  "file": "13_Waste_Management_Business_Analyst_III.docx",
-  "company": "Waste Management",
-  "title": "Business Analyst III",
-  "location": "Windsor, CT, United States",
-  "start_date": "2026-08-13",
-  "url": "https://emcm.fa.us2.oraclecloud.com",
-  "source": "Oracle Cloud",
-  "rank": 179,
-  "families": [
-   "data",
-   "sdlc",
-   "stats"
-  ],
-  "matched": [
-   "Power BI",
-   "business intelligence",
-   "cross-functional",
-   "data visualization",
-   "reporting",
-   "root cause analysis",
-   "stakeholder management"
-  ],
-  "n_matched": 7,
-  "gaps": [
-   "Six Sigma"
-  ],
-  "missing_in_doc": []
- },
- {
-  "file": "14_JPMorgan_Chase_AWM_Product_Owner_Business_Analyst.docx",
-  "company": "JPMorgan Chase",
-  "title": "AWM:Product Owner / Business Analyst",
-  "location": "Jersey City, NJ, United States",
-  "start_date": "2026-08-12",
-  "url": "https://careers.jpmorgan.com/us/en/jobs",
-  "source": "Oracle Cloud",
-  "rank": 12,
-  "families": [
-   "sdlc",
-   "cloud",
-   "data"
-  ],
-  "matched": [
-   "SQL",
-   "Tableau",
-   "UAT",
-   "acceptance criteria",
-   "business requirements",
-   "migration",
-   "process flows",
-   "reporting",
-   "stakeholder management",
-   "test plans",
-   "user stories"
-  ],
-  "n_matched": 11,
-  "gaps": [
-   "Alteryx"
-  ],
-  "missing_in_doc": []
- },
- {
-  "file": "15_Cardinal_Health_Senior_Data_Analyst.docx",
-  "company": "Cardinal Health",
-  "title": "Senior Data Analyst",
-  "location": "US-Nationwide-FIELD",
-  "start_date": "2026-08-12",
-  "url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/Senior-Data-Analyst_20185427",
-  "source": "Workday",
-  "rank": 15,
-  "families": [
-   "sdlc",
-   "domain",
-   "data"
-  ],
-  "matched": [
-   "Agile",
-   "Python",
-   "SQL",
-   "Scrum",
-   "Tableau",
-   "automation",
-   "cloud",
-   "cross-functional",
-   "data modeling",
-   "data validation",
-   "data visualization",
-   "forecasting",
-   "healthcare",
-   "mentoring",
-   "reporting",
-   "stakeholder management"
-  ],
-  "n_matched": 16,
-  "gaps": [
-   "R",
-   "Looker",
-   "Databricks"
-  ],
-  "missing_in_doc": []
- },
- {
-  "file": "16_Cardinal_Health_Business_Analyst.docx",
-  "company": "Cardinal Health",
-  "title": "Business Analyst",
-  "location": "US-Nationwide-FIELD",
-  "start_date": "2026-08-12",
-  "url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/Business-Analyst_20185404",
-  "source": "Workday",
-  "rank": 15,
-  "families": [
-   "sdlc",
-   "domain",
-   "data"
-  ],
-  "matched": [
-   "Agile",
-   "Excel",
-   "PowerPoint",
-   "QA",
-   "SDLC",
-   "UAT",
-   "business requirements",
-   "documentation",
-   "healthcare",
-   "integration",
-   "mentoring",
-   "process flows",
-   "requirements elicitation",
-   "stakeholder management",
-   "test cases"
-  ],
-  "n_matched": 15,
-  "gaps": [
-   "Salesforce"
-  ],
-  "missing_in_doc": []
- },
- {
-  "file": "17_Cardinal_Health_Consultant_IT_Product_Implementation_Business.docx",
-  "company": "Cardinal Health",
-  "title": "Consultant, IT Product/Implementation Business Analyst",
-  "location": "US-Nationwide-FIELD",
-  "start_date": "2026-08-12",
-  "url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/Consultant--IT-Product-Implementation-Business-Analyst_20185405",
-  "source": "Workday",
-  "rank": 15,
-  "families": [
-   "sdlc",
-   "domain",
-   "data"
-  ],
-  "matched": [
-   "Agile",
-   "Excel",
-   "PowerPoint",
-   "QA",
-   "SDLC",
-   "acceptance criteria",
-   "audit",
-   "documentation",
-   "functional requirements",
-   "healthcare",
-   "integration",
-   "process flows",
-   "requirements elicitation",
-   "stakeholder management",
-   "test cases",
-   "test plans",
-   "traceability",
-   "use cases",
-   "user stories"
-  ],
-  "n_matched": 19,
-  "gaps": [
-   "Salesforce"
-  ],
-  "missing_in_doc": []
- },
- {
-  "file": "18_General_Motors_Safety_Field_Investigations_Data_Analyst.docx",
-  "company": "General Motors",
-  "title": "Safety Field Investigations - Data Analyst",
-  "location": "Warren, Michigan, United States of America",
-  "start_date": "2026-08-12",
-  "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Safety-Field-Investigations---Data-Analyst_JR-202615306-1",
-  "source": "Workday",
-  "rank": 23,
-  "families": [
-   "data",
-   "cloud",
-   "sdlc"
-  ],
-  "matched": [
-   "Excel",
-   "Power BI",
-   "Python",
-   "SQL",
-   "Tableau",
-   "automation",
-   "cross-functional",
-   "dashboards",
-   "data governance",
-   "data modeling",
-   "data pipelines",
-   "data quality",
-   "data validation",
-   "data visualization",
-   "documentation",
-   "integration",
-   "migration",
-   "reporting",
-   "scorecards",
-   "self-service",
-   "stakeholder management"
-  ],
-  "n_matched": 21,
-  "gaps": [
-   "Databricks",
-   "Hadoop"
-  ],
-  "missing_in_doc": []
- },
- {
-  "file": "19_Capital_One_Financial_Senior_Business_Analyst_Credit_Loss_Forecast.docx",
-  "company": "Capital One Financial",
-  "title": "Senior Business Analyst, Credit Loss Forecast",
-  "location": "McLean, VA",
-  "start_date": "2026-08-12",
-  "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Business-Analyst--Liquidity--Market--and-Capital-Risk-Oversight_R243495-1",
-  "source": "Workday",
-  "rank": 63,
-  "families": [
-   "stats",
-   "data",
-   "gov"
-  ],
-  "matched": [
-   "SQL",
-   "compliance",
-   "forecasting",
-   "healthcare",
-   "statistical analysis"
-  ],
-  "n_matched": 5,
-  "gaps": [],
-  "missing_in_doc": []
- },
- {
-  "file": "20_Abbott_Laboratories_OpEx_Data_Analyst_I.docx",
-  "company": "Abbott Laboratories",
-  "title": "OpEx Data Analyst I",
-  "location": "United States - Minnesota - Plymouth",
-  "start_date": "2026-08-12",
-  "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Plymouth/OpEx-Data-Analyst-I_31158893",
-  "source": "Workday",
-  "rank": 107,
-  "families": [
-   "cloud",
-   "domain",
-   "stats"
-  ],
-  "matched": [
-   "SAP",
-   "automation",
-   "capacity modeling",
-   "cloud",
-   "compliance",
-   "dashboards",
-   "data governance",
-   "data pipelines",
-   "data visualization",
-   "documentation",
-   "healthcare",
-   "integration",
-   "machine learning",
-   "reporting",
-   "root cause analysis",
-   "statistical analysis",
-   "use cases"
-  ],
-  "n_matched": 17,
-  "gaps": [
-   "Databricks"
-  ],
-  "missing_in_doc": []
- },
- {
-  "file": "21_U_S_Bancorp_Marketing_Data_Analyst.docx",
-  "company": "U.S. Bancorp",
-  "title": "Marketing Data Analyst",
-  "location": "Atlanta, GA",
-  "start_date": "2026-08-12",
-  "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Atlanta-GA/Marketing-Data-Analyst_2026-0024398",
-  "source": "Workday",
-  "rank": 110,
-  "families": [
-   "sdlc",
-   "domain",
-   "data"
-  ],
-  "matched": [
-   "Excel",
-   "SAFe",
-   "healthcare",
-   "migration"
-  ],
-  "n_matched": 4,
-  "gaps": [],
-  "missing_in_doc": []
- },
- {
-  "file": "22_Leidos_Holdings_Data_Analyst.docx",
-  "company": "Leidos Holdings",
-  "title": "Data Analyst",
-  "location": "Huntsville, AL",
-  "start_date": "2026-08-12",
-  "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Data-Analyst_R-00187699",
-  "source": "Workday",
-  "rank": 260,
-  "families": [
-   "sdlc",
-   "stats",
-   "data"
-  ],
-  "matched": [
-   "Agile",
-   "Python",
-   "Scrum",
-   "cross-functional",
-   "data validation",
-   "data visualization",
-   "integration",
-   "logistics",
-   "machine learning",
-   "statistical analysis",
-   "test plans"
-  ],
-  "n_matched": 11,
-  "gaps": [],
-  "missing_in_doc": []
- },
- {
-  "file": "23_Markel_Group_Senior_Lead_Business_Analyst_Oracle_EPM_Report.docx",
-  "company": "Markel Group",
-  "title": "Senior/Lead Business Analyst, Oracle EPM & Reporting",
-  "location": "Richmond, VA",
-  "start_date": "2026-08-12",
-  "url": "https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Richmond-VA/Senior-Lead-Business-Analyst--Oracle-EPM---Reporting_R0023624",
-  "source": "Workday",
-  "rank": 270,
-  "families": [
-   "data",
-   "sdlc",
-   "cloud"
-  ],
-  "matched": [
-   "Agile",
-   "Power BI",
-   "PowerPoint",
-   "SAP",
-   "audit",
-   "automation",
-   "business requirements",
-   "cross-functional",
-   "dashboards",
-   "data validation",
-   "documentation",
-   "healthcare",
-   "integration",
-   "mentoring",
-   "reconciliation",
-   "reporting",
-   "stakeholder management"
-  ],
-  "n_matched": 17,
-  "gaps": [
-   "Oracle EPM/Hyperion"
-  ],
-  "missing_in_doc": []
- },
- {
-  "file": "24_Kyndryl_Holdings_Data_Analyst.docx",
-  "company": "Kyndryl Holdings",
-  "title": "Data Analyst",
-  "location": "Research Triangle Park, NC, USA",
-  "start_date": "2026-08-12",
-  "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Research-Triangle-Park-NC-USA/Data-Analyst_R-57844-1",
-  "source": "Workday",
-  "rank": 300,
-  "families": [
-   "data",
-   "sdlc",
-   "cloud"
-  ],
-  "matched": [
-   "Power BI",
-   "PowerPoint",
-   "Python",
-   "SQL",
-   "business intelligence",
-   "cloud",
-   "cross-functional",
-   "data visualization",
-   "defect triage",
-   "root cause analysis",
-   "stakeholder management",
-   "statistical analysis"
-  ],
-  "n_matched": 12,
-  "gaps": [
-   "R",
-   "Looker",
-   "Six Sigma"
-  ],
-  "missing_in_doc": []
- },
- {
-  "file": "25_Kyndryl_Holdings_Business_Analyst.docx",
-  "company": "Kyndryl Holdings",
-  "title": "Business Analyst",
-  "location": "Research Triangle Park, NC, USA",
-  "start_date": "2026-08-12",
-  "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Research-Triangle-Park-NC-USA/Business-Analyst_R-63846",
-  "source": "Workday",
-  "rank": 300,
-  "families": [
-   "sdlc"
-  ],
-  "matched": [
-   "UAT",
-   "business requirements",
-   "documentation",
-   "gap analysis",
-   "process flows",
-   "stakeholder management"
-  ],
-  "n_matched": 6,
-  "gaps": [],
-  "missing_in_doc": []
- },
- {
-  "file": "26_Amazon_Communications_Business_Analyst_Operations_Int.docx",
+  "file": "02_Amazon_Business_Analyst_II_GSRC_Analytics.docx",
   "company": "Amazon",
-  "title": "Communications Business Analyst, Operations Internal Communications",
-  "location": "Seattle, Washington, USA",
-  "start_date": "2026-08-11",
-  "url": "https://www.amazon.jobs/en/jobs/10499284/communications-business-analyst-operations-internal-communications",
+  "title": "Business Analyst II, GSRC Analytics",
+  "location": "Arlington, Virginia, USA",
+  "start_date": "2026-10-29",
+  "url": "https://www.amazon.jobs/en/jobs/10593009/business-analyst-ii-gsrc-analytics",
   "source": "amazon.jobs",
   "rank": 1,
   "families": [
    "data",
+   "sdlc",
+   "cloud"
+  ],
+  "matched": [
+   "Excel",
+   "SQL",
+   "automation",
    "cloud",
-   "sdlc"
+   "cross-functional",
+   "dashboards",
+   "healthcare",
+   "reporting",
+   "root cause analysis",
+   "stakeholder management"
+  ],
+  "n_matched": 10,
+  "gaps": [],
+  "missing_in_doc": []
+ },
+ {
+  "file": "03_Amazon_Business_Analyst_AMZL_UTR_PPT.docx",
+  "company": "Amazon",
+  "title": "Business Analyst, AMZL UTR PPT",
+  "location": "Nashville, Tennessee, USA",
+  "start_date": "2026-10-29",
+  "url": "https://www.amazon.jobs/en/jobs/10593114/business-analyst-amzl-utr-ppt",
+  "source": "amazon.jobs",
+  "rank": 1,
+  "families": [
+   "data",
+   "sdlc",
+   "cloud"
   ],
   "matched": [
    "Excel",
    "KPIs",
+   "Python",
+   "SQL",
+   "Tableau",
+   "VBA",
+   "automation",
+   "cross-functional",
+   "data pipelines",
+   "data quality",
+   "data validation",
+   "data visualization",
+   "financial reporting",
+   "healthcare",
+   "predictive modeling",
+   "reporting",
+   "stakeholder management",
+   "statistical analysis"
+  ],
+  "n_matched": 18,
+  "gaps": [
+   "Java",
+   "R"
+  ],
+  "missing_in_doc": []
+ },
+ {
+  "file": "04_Nvidia_Senior_Revenue_and_Pricing_Business_Analyst.docx",
+  "company": "Nvidia",
+  "title": "Senior Revenue and Pricing Business Analyst",
+  "location": "US, CA, Santa Clara",
+  "start_date": "2026-10-29",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Revenue-and-Pricing-Business-Analyst_JR2028044-1",
+  "source": "Workday",
+  "rank": 16,
+  "families": [
+   "data",
+   "gov",
+   "tech"
+  ],
+  "matched": [
+   "ETL",
+   "Excel",
    "Power BI",
+   "SAP",
+   "SQL",
+   "Snowflake",
+   "Tableau",
+   "ad hoc reporting",
+   "audit",
+   "automation",
+   "compliance",
+   "data integrity",
+   "data modeling",
+   "reconciliation",
+   "reporting"
+  ],
+  "n_matched": 15,
+  "gaps": [
+   "Salesforce",
+   "Databricks"
+  ],
+  "missing_in_doc": []
+ },
+ {
+  "file": "05_Marathon_Petroleum_Senior_Data_Analyst.docx",
+  "company": "Marathon Petroleum",
+  "title": "Senior Data Analyst",
+  "location": "Findlay, Ohio",
+  "start_date": "2026-10-29",
+  "url": "https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Senior-Data-Analyst_00025012",
+  "source": "Workday",
+  "rank": 30,
+  "families": [
+   "data",
+   "sdlc",
+   "stats"
+  ],
+  "matched": [
+   "Power BI",
+   "PowerPoint",
+   "SQL",
+   "Tableau",
+   "audit",
+   "automation",
+   "business intelligence",
+   "cross-functional",
+   "dashboards",
+   "data governance",
+   "data pipelines",
+   "data validation",
+   "data visualization",
+   "forecasting",
+   "healthcare",
+   "machine learning",
+   "reporting",
+   "self-service",
+   "stakeholder management",
+   "statistical analysis"
+  ],
+  "n_matched": 20,
+  "gaps": [
+   "Databricks"
+  ],
+  "missing_in_doc": []
+ },
+ {
+  "file": "06_Target_Sr_Data_Analyst_Marketing_Analytics.docx",
+  "company": "Target",
+  "title": "Sr Data Analyst - Marketing Analytics",
+  "location": "1000 Nicollet Mall, Minneapolis,MN 55403-2542",
+  "start_date": "2026-10-29",
+  "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Sr-Data-Analyst---Marketing-Analytics_R0000450976",
+  "source": "Workday",
+  "rank": 42,
+  "families": [
+   "data",
+   "sdlc",
+   "gov"
+  ],
+  "matched": [
+   "Power BI",
+   "PowerPoint",
    "Python",
    "SQL",
    "Tableau",
    "ad hoc reporting",
-   "automation",
-   "business intelligence",
-   "business requirements",
+   "compliance",
    "cross-functional",
    "dashboards",
-   "data pipelines",
-   "data visualization",
-   "data warehouse",
-   "healthcare",
-   "integration",
-   "machine learning",
-   "reporting",
-   "stakeholder management",
-   "statistical analysis"
-  ],
-  "n_matched": 21,
-  "gaps": [],
-  "missing_in_doc": []
- },
- {
-  "file": "27_Amazon_Business_Analyst_III_AMZ10666414.docx",
-  "company": "Amazon",
-  "title": "Business Analyst III - AMZ10666414",
-  "location": "San Diego, California, USA",
-  "start_date": "2026-08-11",
-  "url": "https://www.amazon.jobs/en/jobs/10498619/business-analyst-iii-amz10666414",
-  "source": "amazon.jobs",
-  "rank": 1,
-  "families": [
-   "stats",
-   "data",
-   "cloud"
-  ],
-  "matched": [
-   "ETL",
-   "Excel",
-   "KPIs",
-   "Python",
-   "SAS",
-   "SQL",
-   "automation",
-   "business intelligence",
-   "business requirements",
-   "data integrity",
-   "data validation",
-   "forecasting",
-   "predictive modeling",
-   "regression",
-   "reporting",
-   "stakeholder management",
-   "statistical analysis"
-  ],
-  "n_matched": 17,
-  "gaps": [
-   "R",
-   "SPSS"
-  ],
-  "missing_in_doc": []
- },
- {
-  "file": "28_Amazon_Business_Analyst_Fuse_Billing_Operations.docx",
-  "company": "Amazon",
-  "title": "Business Analyst, Fuse Billing Operations",
-  "location": "Seattle, Washington, USA",
-  "start_date": "2026-08-11",
-  "url": "https://www.amazon.jobs/en/jobs/10498893/business-analyst-fuse-billing-operations",
-  "source": "amazon.jobs",
-  "rank": 1,
-  "families": [
-   "data",
-   "sdlc",
-   "stats"
-  ],
-  "matched": [
-   "Excel",
-   "SQL",
-   "Tableau",
-   "VBA",
-   "business intelligence",
-   "cloud",
-   "cross-functional",
-   "data visualization",
-   "defect triage",
-   "financial reporting",
-   "healthcare",
-   "reconciliation",
-   "reporting",
-   "root cause analysis",
-   "stakeholder management"
-  ],
-  "n_matched": 15,
-  "gaps": [],
-  "missing_in_doc": []
- },
- {
-  "file": "29_Amazon_Senior_Business_Analyst_Seller_External_Relati.docx",
-  "company": "Amazon",
-  "title": "Senior Business Analyst, Seller External Relations",
-  "location": "Seattle, Washington, USA",
-  "start_date": "2026-08-11",
-  "url": "https://www.amazon.jobs/en/jobs/10498849/senior-business-analyst-seller-external-relations",
-  "source": "amazon.jobs",
-  "rank": 1,
-  "families": [
-   "data",
-   "sdlc",
-   "domain"
-  ],
-  "matched": [
-   "Excel",
-   "Power BI",
-   "SQL",
-   "Tableau",
-   "automation",
-   "business intelligence",
-   "claims",
-   "cross-functional",
    "data visualization",
    "healthcare",
-   "reporting",
    "stakeholder management"
   ],
   "n_matched": 12,
@@ -1004,192 +220,109 @@
   "missing_in_doc": []
  },
  {
-  "file": "30_Capital_One_Financial_Senior_Business_Analyst_Credit_Reporting_Perfo.docx",
-  "company": "Capital One Financial",
-  "title": "Senior Business Analyst - Credit Reporting & Performance",
-  "location": "McLean, VA",
-  "start_date": "2026-08-11",
-  "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Business-Analyst---Credit-Reporting---Performance_R248806-1",
+  "file": "07_RTX_Naval_Power_Engineering_Business_Analyst_Manag.docx",
+  "company": "RTX",
+  "title": "Naval Power Engineering Business Analyst Manager",
+  "location": "US-AZ-TUCSON-9030 ~ 9030 S Rita Rd ~ BLDG 9030",
+  "start_date": "2026-10-29",
+  "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-9030--9030-S-Rita-Rd--BLDG-9030/Naval-Power-Engineering-Business-Analyst-Manager_01885451",
   "source": "Workday",
-  "rank": 63,
+  "rank": 49,
   "families": [
    "data",
-   "stats",
-   "gov"
-  ],
-  "matched": [
-   "SQL",
-   "compliance",
-   "healthcare",
-   "reporting",
-   "statistical analysis"
-  ],
-  "n_matched": 5,
-  "gaps": [],
-  "missing_in_doc": []
- },
- {
-  "file": "31_U_S_Bancorp_Business_Analyst_Reconciliation_and_Payment_Te.docx",
-  "company": "U.S. Bancorp",
-  "title": "Business Analyst - Reconciliation and Payment Team",
-  "location": "Saint Paul, MN",
-  "start_date": "2026-08-11",
-  "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Paul-MN/Business-Technology-Analyst---Operations_2026-0012731",
-  "source": "Workday",
-  "rank": 110,
-  "families": [
-   "sdlc",
-   "data",
-   "gov"
+   "tech",
+   "stats"
   ],
   "matched": [
    "Excel",
-   "SAFe",
-   "UAT",
-   "audit",
-   "cross-functional",
-   "dashboards",
-   "defect triage",
-   "documentation",
-   "future state",
-   "governance tooling",
-   "healthcare",
-   "migration",
-   "reconciliation",
-   "reporting",
-   "stakeholder management",
-   "test plans"
-  ],
-  "n_matched": 16,
-  "gaps": [],
-  "missing_in_doc": []
- },
- {
-  "file": "32_State_Street_Technical_Business_Analyst_AVP.docx",
-  "company": "State Street",
-  "title": "Technical Business Analyst,AVP",
-  "location": "Quincy, Massachusetts",
-  "start_date": "2026-08-11",
-  "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Technical-Business-Analyst-AVP_R-791484-1",
-  "source": "Workday",
-  "rank": 202,
-  "families": [
-   "sdlc"
-  ],
-  "matched": [
-   "Agile",
-   "SDLC",
-   "UAT",
-   "Waterfall",
-   "business requirements",
-   "data validation",
-   "defect triage",
-   "documentation",
-   "functional requirements",
-   "non-functional requirements",
-   "process flows",
-   "stakeholder management",
-   "test cases"
-  ],
-  "n_matched": 13,
-  "gaps": [],
-  "missing_in_doc": []
- },
- {
-  "file": "33_McKesson_Sr_SAP_Vistex_Business_Analyst.docx",
-  "company": "McKesson",
-  "title": "Sr. SAP Vistex Business Analyst",
-  "location": "USA, TX, Irving",
-  "start_date": "2026-08-10",
-  "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Sr-SAP-Vistex-Business-Analyst_JR0152006",
-  "source": "Workday",
-  "rank": 8,
-  "families": [
-   "tech",
-   "sdlc",
-   "domain"
-  ],
-  "matched": [
-   "QA",
    "SAP",
-   "data validation",
-   "defect triage",
-   "documentation",
-   "functional requirements",
-   "healthcare",
-   "integration",
-   "reporting",
-   "stakeholder management",
-   "traceability"
+   "compliance",
+   "financial reporting",
+   "forecasting",
+   "mentoring",
+   "migration",
+   "procurement",
+   "reporting"
   ],
-  "n_matched": 11,
-  "gaps": [],
+  "n_matched": 9,
+  "gaps": [
+   "Security clearance"
+  ],
   "missing_in_doc": []
  },
  {
-  "file": "34_Freddie_Mac_Single_Family_Business_Analyst.docx",
-  "company": "Freddie Mac",
-  "title": "Single Family Business Analyst",
-  "location": "McLean, VA",
-  "start_date": "2026-08-10",
-  "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Business-Analyst_JR17442",
+  "file": "08_U_S_Bancorp_Freight_Business_Analyst.docx",
+  "company": "U.S. Bancorp",
+  "title": "Freight Business Analyst",
+  "location": "Naperville, IL",
+  "start_date": "2026-10-29",
+  "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Naperville-IL/Freight-Business-Analyst_2026-0030212",
   "source": "Workday",
-  "rank": 33,
+  "rank": 110,
   "families": [
+   "data",
    "sdlc",
-   "cloud",
-   "gov"
+   "stats"
   ],
   "matched": [
+   "Excel",
+   "KPIs",
    "PowerPoint",
    "SAFe",
-   "automation",
-   "business requirements",
    "compliance",
-   "mentoring",
-   "statistical analysis"
+   "documentation",
+   "forecasting",
+   "healthcare",
+   "migration",
+   "reporting",
+   "root cause analysis",
+   "test plans"
   ],
-  "n_matched": 7,
-  "gaps": [],
+  "n_matched": 12,
+  "gaps": [
+   "Cognos"
+  ],
   "missing_in_doc": []
  },
  {
-  "file": "35_State_Street_Alpha_Data_Services_Senior_Implementation_Busi.docx",
+  "file": "09_State_Street_Alpha_Product_Business_Analyst.docx",
   "company": "State Street",
-  "title": "Alpha Data Services, Senior Implementation Business Analyst, Vice President",
-  "location": "Burlington Massachusetts",
-  "start_date": "2026-08-10",
-  "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Alpha-Data-Services--Senior-Implementation-Business-Analyst--Vice-President_R-792919",
+  "title": "Alpha Product Business Analyst",
+  "location": "Boston, Massachusetts",
+  "start_date": "2026-10-29",
+  "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Alpha-Product-Business-Analyst_R-800489",
   "source": "Workday",
   "rank": 202,
   "families": [
    "sdlc",
-   "cloud",
+   "stats",
    "data"
   ],
   "matched": [
    "Agile",
-   "ETL",
+   "Confluence",
    "Excel",
    "JIRA",
-   "PowerPoint",
+   "SDLC",
    "SQL",
-   "Snowflake",
-   "Visio",
+   "SharePoint",
+   "UAT",
+   "acceptance criteria",
+   "automation",
    "business requirements",
-   "cloud",
-   "data governance",
-   "data lineage",
-   "data modeling",
+   "cross-functional",
    "data quality",
    "data validation",
-   "data warehouse",
+   "defect triage",
    "documentation",
-   "integration",
+   "functional requirements",
+   "process flows",
    "reconciliation",
-   "reporting"
+   "stakeholder management",
+   "test cases",
+   "user stories"
   ],
-  "n_matched": 20,
+  "n_matched": 22,
   "gaps": [],
   "missing_in_doc": []
  }
