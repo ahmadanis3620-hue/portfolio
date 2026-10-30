@@ -1,6 +1,73 @@
 [
  {
-  "file": "01_General_Dynamics_ServiceNow_Business_Analyst.docx",
+  "file": "01_JPMorgan_Chase_Data_Scientist_Lead_Business_Banking_Lending_V.docx",
+  "company": "JPMorgan Chase",
+  "title": "Data Scientist Lead - Business Banking Lending - Vice President",
+  "location": "Columbus, OH, United States",
+  "start_date": "2026-10-30",
+  "url": "https://careers.jpmorgan.com/us/en/jobs",
+  "source": "Oracle Cloud",
+  "rank": 12,
+  "families": [
+   "sdlc",
+   "data",
+   "stats"
+  ],
+  "matched": [
+   "KPIs",
+   "Python",
+   "SQL",
+   "audit",
+   "automation",
+   "cross-functional",
+   "data quality",
+   "data validation",
+   "documentation",
+   "predictive modeling",
+   "procurement",
+   "reporting",
+   "stakeholder management",
+   "statistical analysis"
+  ],
+  "n_matched": 14,
+  "gaps": [],
+  "missing_in_doc": []
+ },
+ {
+  "file": "02_Capital_One_Financial_Senior_Associate_Data_Scientist_Business_Cards.docx",
+  "company": "Capital One Financial",
+  "title": "Senior Associate, Data Scientist -  Business Cards Marketing Data Science",
+  "location": "New York, NY",
+  "start_date": "2026-10-30",
+  "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Associate--Data-Scientist----Business-Cards-Marketing-Data-Science_R248511-1",
+  "source": "Workday",
+  "rank": 63,
+  "families": [
+   "stats",
+   "data",
+   "sdlc"
+  ],
+  "matched": [
+   "Python",
+   "SQL",
+   "cloud",
+   "compliance",
+   "cross-functional",
+   "data validation",
+   "healthcare",
+   "machine learning",
+   "regression",
+   "statistical analysis"
+  ],
+  "n_matched": 10,
+  "gaps": [
+   "Spark",
+   "Scala"
+  ],
+  "missing_in_doc": []
+ },
+ {
+  "file": "03_General_Dynamics_ServiceNow_Business_Analyst.docx",
   "company": "General Dynamics",
   "title": "ServiceNow Business Analyst",
   "location": "USA MD Rockville",
@@ -37,7 +104,47 @@
   "missing_in_doc": []
  },
  {
-  "file": "02_Amazon_Business_Analyst_II_GSRC_Analytics.docx",
+  "file": "04_CDW_Senior_Consulting_Data_Engineer_Snowflake.docx",
+  "company": "CDW",
+  "title": "Senior Consulting Data Engineer - Snowflake",
+  "location": "Remote \u2013 USA",
+  "start_date": "2026-10-30",
+  "url": "https://cdw.wd5.myworkdayjobs.com/Careers/job/Remote--USA/Senior-Consulting-Data-Engineer---Snowflake_R26_00002389",
+  "source": "Workday",
+  "rank": 205,
+  "families": [
+   "cloud",
+   "sdlc",
+   "data"
+  ],
+  "matched": [
+   "QA",
+   "SQL",
+   "Snowflake",
+   "ad hoc reporting",
+   "automation",
+   "cloud",
+   "cross-functional",
+   "data modeling",
+   "data pipelines",
+   "data quality",
+   "data validation",
+   "data warehouse",
+   "documentation",
+   "healthcare",
+   "integration",
+   "migration",
+   "reporting",
+   "stakeholder management"
+  ],
+  "n_matched": 18,
+  "gaps": [
+   "dbt"
+  ],
+  "missing_in_doc": []
+ },
+ {
+  "file": "05_Amazon_Business_Analyst_II_GSRC_Analytics.docx",
   "company": "Amazon",
   "title": "Business Analyst II, GSRC Analytics",
   "location": "Arlington, Virginia, USA",
@@ -67,7 +174,7 @@
   "missing_in_doc": []
  },
  {
-  "file": "03_Amazon_Business_Analyst_AMZL_UTR_PPT.docx",
+  "file": "06_Amazon_Business_Analyst_AMZL_UTR_PPT.docx",
   "company": "Amazon",
   "title": "Business Analyst, AMZL UTR PPT",
   "location": "Nashville, Tennessee, USA",
@@ -108,7 +215,153 @@
   "missing_in_doc": []
  },
  {
-  "file": "04_Nvidia_Senior_Revenue_and_Pricing_Business_Analyst.docx",
+  "file": "07_Amazon_Data_Engineer_WW_Ops_Finance_S_A.docx",
+  "company": "Amazon",
+  "title": "Data Engineer, WW Ops Finance S&A",
+  "location": "Bellevue, Washington, USA",
+  "start_date": "2026-10-29",
+  "url": "https://www.amazon.jobs/en/jobs/10592334/data-engineer-ww-ops-finance-s-a",
+  "source": "amazon.jobs",
+  "rank": 1,
+  "families": [
+   "cloud",
+   "data",
+   "gov"
+  ],
+  "matched": [
+   "ETL",
+   "Excel",
+   "Python",
+   "SAFe",
+   "SQL",
+   "ad hoc reporting",
+   "automation",
+   "business intelligence",
+   "cloud",
+   "data governance",
+   "data modeling",
+   "data pipelines",
+   "data quality",
+   "data warehouse",
+   "governance tooling",
+   "healthcare",
+   "integration",
+   "reporting",
+   "root cause analysis",
+   "self-service",
+   "stakeholder management",
+   "supply chain"
+  ],
+  "n_matched": 22,
+  "gaps": [
+   "Java",
+   "Spark",
+   "Airflow",
+   "Scala"
+  ],
+  "missing_in_doc": []
+ },
+ {
+  "file": "08_Amazon_Data_Engineer_II_AWS_Analytics_Engineering.docx",
+  "company": "Amazon",
+  "title": "Data Engineer II, AWS Analytics Engineering",
+  "location": "Seattle, Washington, USA",
+  "start_date": "2026-10-29",
+  "url": "https://www.amazon.jobs/en/jobs/10591361/data-engineer-ii-aws-analytics-engineering",
+  "source": "amazon.jobs",
+  "rank": 1,
+  "families": [
+   "cloud",
+   "data",
+   "sdlc"
+  ],
+  "matched": [
+   "ETL",
+   "SQL",
+   "automation",
+   "business intelligence",
+   "capacity modeling",
+   "cloud",
+   "cross-functional",
+   "dashboards",
+   "data modeling",
+   "data pipelines",
+   "data validation",
+   "healthcare",
+   "reporting",
+   "stakeholder management"
+  ],
+  "n_matched": 14,
+  "gaps": [],
+  "missing_in_doc": []
+ },
+ {
+  "file": "09_McKesson_Senior_Business_Intelligence_Analyst.docx",
+  "company": "McKesson",
+  "title": "Senior Business Intelligence Analyst",
+  "location": "USA, VA, Richmond",
+  "start_date": "2026-10-29",
+  "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-VA-Richmond/Senior-Business-Intelligence-Analyst_JR0155361-1",
+  "source": "Workday",
+  "rank": 8,
+  "families": [
+   "data",
+   "sdlc",
+   "cloud"
+  ],
+  "matched": [
+   "Agile",
+   "KPIs",
+   "automation",
+   "business intelligence",
+   "business requirements",
+   "cloud",
+   "compliance",
+   "dashboards",
+   "data modeling",
+   "healthcare",
+   "reporting",
+   "scorecards",
+   "self-service",
+   "stakeholder management"
+  ],
+  "n_matched": 14,
+  "gaps": [],
+  "missing_in_doc": []
+ },
+ {
+  "file": "10_JPMorgan_Chase_Data_Scientist_Sr_Associate.docx",
+  "company": "JPMorgan Chase",
+  "title": "Data Scientist - Sr Associate",
+  "location": "Plano, TX, United States",
+  "start_date": "2026-10-29",
+  "url": "https://careers.jpmorgan.com/us/en/jobs",
+  "source": "Oracle Cloud",
+  "rank": 12,
+  "families": [
+   "sdlc",
+   "data",
+   "gov"
+  ],
+  "matched": [
+   "PowerPoint",
+   "SQL",
+   "compliance",
+   "cross-functional",
+   "data governance",
+   "data visualization",
+   "stakeholder management",
+   "statistical analysis",
+   "user stories"
+  ],
+  "n_matched": 9,
+  "gaps": [
+   "Google Analytics"
+  ],
+  "missing_in_doc": []
+ },
+ {
+  "file": "11_Nvidia_Senior_Revenue_and_Pricing_Business_Analyst.docx",
   "company": "Nvidia",
   "title": "Senior Revenue and Pricing Business Analyst",
   "location": "US, CA, Santa Clara",
@@ -146,7 +399,7 @@
   "missing_in_doc": []
  },
  {
-  "file": "05_Marathon_Petroleum_Senior_Data_Analyst.docx",
+  "file": "12_Marathon_Petroleum_Senior_Data_Analyst.docx",
   "company": "Marathon Petroleum",
   "title": "Senior Data Analyst",
   "location": "Findlay, Ohio",
@@ -188,7 +441,7 @@
   "missing_in_doc": []
  },
  {
-  "file": "06_Target_Sr_Data_Analyst_Marketing_Analytics.docx",
+  "file": "13_Target_Sr_Data_Analyst_Marketing_Analytics.docx",
   "company": "Target",
   "title": "Sr Data Analyst - Marketing Analytics",
   "location": "1000 Nicollet Mall, Minneapolis,MN 55403-2542",
@@ -220,7 +473,166 @@
   "missing_in_doc": []
  },
  {
-  "file": "07_RTX_Naval_Power_Engineering_Business_Analyst_Manag.docx",
+  "file": "14_Target_Principal_Data_Scientist_Supply_Chain_Network.docx",
+  "company": "Target",
+  "title": "Principal Data Scientist - Supply Chain Network Planning and Design",
+  "location": "1000 Nicollet Mall, Minneapolis,MN 55403-2542",
+  "start_date": "2026-10-29",
+  "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Principal-Data-Scientist---Supply-Chain-Network-Planning-and-Design_R0000479287",
+  "source": "Workday",
+  "rank": 42,
+  "families": [
+   "sdlc",
+   "domain",
+   "stats"
+  ],
+  "matched": [
+   "Agile",
+   "Python",
+   "SQL",
+   "Scrum",
+   "capacity modeling",
+   "cloud",
+   "compliance",
+   "cross-functional",
+   "data validation",
+   "forecasting",
+   "healthcare",
+   "inventory",
+   "logistics",
+   "machine learning",
+   "mentoring",
+   "statistical analysis",
+   "supply chain"
+  ],
+  "n_matched": 17,
+  "gaps": [],
+  "missing_in_doc": []
+ },
+ {
+  "file": "15_Johnson_Johnson_Principal_Data_Scientist_DDSAI_GD.docx",
+  "company": "Johnson & Johnson",
+  "title": "Principal Data Scientist \u2013 DDSAI GD",
+  "location": "Titusville, New Jersey, United States of America",
+  "start_date": "2026-10-29",
+  "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Principal-Data-Scientist---DDSAI-GD_R-107077-1",
+  "source": "Workday",
+  "rank": 45,
+  "families": [
+   "domain",
+   "sdlc",
+   "stats"
+  ],
+  "matched": [
+   "NLP",
+   "Python",
+   "SQL",
+   "automation",
+   "claims",
+   "data quality",
+   "data validation",
+   "data visualization",
+   "documentation",
+   "forecasting",
+   "healthcare",
+   "integration",
+   "machine learning",
+   "mentoring",
+   "pharmaceutical",
+   "predictive modeling",
+   "reporting",
+   "stakeholder management",
+   "statistical analysis",
+   "use cases"
+  ],
+  "n_matched": 20,
+  "gaps": [],
+  "missing_in_doc": []
+ },
+ {
+  "file": "16_Boeing_Experienced_Data_Scientist.docx",
+  "company": "Boeing",
+  "title": "Experienced Data Scientist",
+  "location": "USA - Hazelwood, MO",
+  "start_date": "2026-10-29",
+  "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Experienced-Data-Scientist_JR2026520583-1",
+  "source": "Workday",
+  "rank": 47,
+  "families": [
+   "cloud",
+   "sdlc",
+   "data"
+  ],
+  "matched": [
+   "Agile",
+   "NLP",
+   "PowerPoint",
+   "Python",
+   "SAFe",
+   "SQL",
+   "cloud",
+   "compliance",
+   "cross-functional",
+   "data quality",
+   "data visualization",
+   "healthcare",
+   "integration",
+   "machine learning",
+   "mentoring",
+   "stakeholder management"
+  ],
+  "n_matched": 16,
+  "gaps": [
+   "Java",
+   "R",
+   "C#",
+   "Security clearance"
+  ],
+  "missing_in_doc": []
+ },
+ {
+  "file": "17_Boeing_Senior_Data_Scientist.docx",
+  "company": "Boeing",
+  "title": "Senior Data Scientist",
+  "location": "USA - Hazelwood, MO",
+  "start_date": "2026-10-29",
+  "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Senior-Data-Scientist_JR2026520669-1",
+  "source": "Workday",
+  "rank": 47,
+  "families": [
+   "cloud",
+   "sdlc",
+   "data"
+  ],
+  "matched": [
+   "Agile",
+   "NLP",
+   "PowerPoint",
+   "Python",
+   "SAFe",
+   "SQL",
+   "cloud",
+   "compliance",
+   "cross-functional",
+   "data quality",
+   "data visualization",
+   "healthcare",
+   "integration",
+   "machine learning",
+   "mentoring",
+   "stakeholder management"
+  ],
+  "n_matched": 16,
+  "gaps": [
+   "Java",
+   "R",
+   "C#",
+   "Security clearance"
+  ],
+  "missing_in_doc": []
+ },
+ {
+  "file": "18_RTX_Naval_Power_Engineering_Business_Analyst_Manag.docx",
   "company": "RTX",
   "title": "Naval Power Engineering Business Analyst Manager",
   "location": "US-AZ-TUCSON-9030 ~ 9030 S Rita Rd ~ BLDG 9030",
@@ -251,7 +663,47 @@
   "missing_in_doc": []
  },
  {
-  "file": "08_U_S_Bancorp_Freight_Business_Analyst.docx",
+  "file": "19_Capital_One_Financial_Data_Engineer_4_Manager_IC.docx",
+  "company": "Capital One Financial",
+  "title": "Data Engineer 4 (Manager, IC)",
+  "location": "McLean, VA",
+  "start_date": "2026-10-29",
+  "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Data-Engineer-4--Manager--IC-_R1002276-2",
+  "source": "Workday",
+  "rank": 63,
+  "families": [
+   "cloud",
+   "data",
+   "sdlc"
+  ],
+  "matched": [
+   "Agile",
+   "Python",
+   "SQL",
+   "Snowflake",
+   "cloud",
+   "compliance",
+   "data modeling",
+   "data pipelines",
+   "healthcare",
+   "machine learning",
+   "mentoring",
+   "migration",
+   "stakeholder management",
+   "statistical analysis"
+  ],
+  "n_matched": 14,
+  "gaps": [
+   "Java",
+   "Databricks",
+   "Spark",
+   "Airflow",
+   "Scala"
+  ],
+  "missing_in_doc": []
+ },
+ {
+  "file": "20_U_S_Bancorp_Freight_Business_Analyst.docx",
   "company": "U.S. Bancorp",
   "title": "Freight Business Analyst",
   "location": "Naperville, IL",
@@ -285,7 +737,216 @@
   "missing_in_doc": []
  },
  {
-  "file": "09_State_Street_Alpha_Product_Business_Analyst.docx",
+  "file": "21_Northrop_Grumman_Computer_Systems_Analyst_19133_Roy_Utah.docx",
+  "company": "Northrop Grumman",
+  "title": "Computer Systems Analyst - 19133 - Roy Utah",
+  "location": "United States-Utah-Roy",
+  "start_date": "2026-10-29",
+  "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Computer-Operations-Analyst-2---19133---Roy-Utah_R10244001",
+  "source": "Workday",
+  "rank": 112,
+  "families": [
+   "sdlc",
+   "domain",
+   "cloud"
+  ],
+  "matched": [
+   "JIRA",
+   "audit",
+   "documentation",
+   "healthcare",
+   "integration"
+  ],
+  "n_matched": 5,
+  "gaps": [
+   "ServiceNow"
+  ],
+  "missing_in_doc": []
+ },
+ {
+  "file": "22_Northrop_Grumman_Skillbridge_Computer_Systems_Analyst_2.docx",
+  "company": "Northrop Grumman",
+  "title": "(Skillbridge) \u2013 Computer Systems Analyst - 2",
+  "location": "United States-Arizona-Chandler",
+  "start_date": "2026-10-29",
+  "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME--Skillbridge----Computer-Systems-Analyst---2_R10258326",
+  "source": "Workday",
+  "rank": 112,
+  "families": [
+   "cloud",
+   "sdlc",
+   "data"
+  ],
+  "matched": [
+   "Python",
+   "documentation",
+   "healthcare",
+   "integration",
+   "stakeholder management"
+  ],
+  "n_matched": 5,
+  "gaps": [
+   "Security clearance"
+  ],
+  "missing_in_doc": []
+ },
+ {
+  "file": "23_Northrop_Grumman_Associate_Data_Scientist_Pathways_Aurora_CO.docx",
+  "company": "Northrop Grumman",
+  "title": "Associate Data Scientist - Pathways - Aurora CO",
+  "location": "United States-Colorado-Aurora",
+  "start_date": "2026-10-29",
+  "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Associate-Data-Scientist---Pathways---Aurora-CO_R10258253-1",
+  "source": "Workday",
+  "rank": 112,
+  "families": [
+   "data",
+   "stats"
+  ],
+  "matched": [
+   "Excel",
+   "VBA",
+   "data visualization",
+   "reporting",
+   "statistical analysis"
+  ],
+  "n_matched": 5,
+  "gaps": [
+   "Security clearance"
+  ],
+  "missing_in_doc": []
+ },
+ {
+  "file": "24_Visa_Data_Insights_Analyst.docx",
+  "company": "Visa",
+  "title": "Data & Insights Analyst",
+  "location": "US - Austin, TX",
+  "start_date": "2026-10-29",
+  "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Data---Insights-Analyst_REF089001W",
+  "source": "Workday",
+  "rank": 119,
+  "families": [
+   "data",
+   "domain",
+   "cloud"
+  ],
+  "matched": [
+   "KPIs",
+   "Power BI",
+   "Python",
+   "SQL",
+   "Snowflake",
+   "Tableau",
+   "ad hoc reporting",
+   "automation",
+   "business requirements",
+   "cloud",
+   "compliance",
+   "cross-functional",
+   "dashboards",
+   "data governance",
+   "data modeling",
+   "data visualization",
+   "data warehouse",
+   "procurement",
+   "reporting",
+   "self-service",
+   "stakeholder management",
+   "supply chain"
+  ],
+  "n_matched": 22,
+  "gaps": [
+   "Looker",
+   "Databricks",
+   "Power Automate"
+  ],
+  "missing_in_doc": []
+ },
+ {
+  "file": "25_Micron_Technology_New_College_Grad_Data_Scientist_AI_for_Busines.docx",
+  "company": "Micron Technology",
+  "title": "New College Grad - Data Scientist, AI for Business Functions",
+  "location": "Boise, ID - Main Site",
+  "start_date": "2026-10-29",
+  "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Data-Scientist--AI-for-Business-Functions_JR115682",
+  "source": "Workday",
+  "rank": 125,
+  "families": [
+   "stats",
+   "data",
+   "cloud"
+  ],
+  "matched": [
+   "Power BI",
+   "PowerPoint",
+   "Python",
+   "SQL",
+   "Snowflake",
+   "Tableau",
+   "cloud",
+   "data visualization",
+   "forecasting",
+   "healthcare",
+   "machine learning",
+   "predictive modeling",
+   "statistical analysis",
+   "supply chain"
+  ],
+  "n_matched": 14,
+  "gaps": [],
+  "missing_in_doc": []
+ },
+ {
+  "file": "26_Amgen_Specialist_IS_Business_Systems_Analyst.docx",
+  "company": "Amgen",
+  "title": "Specialist IS Business Systems Analyst",
+  "location": "US - North Carolina - Holly Springs",
+  "start_date": "2026-10-29",
+  "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/US---North-Carolina---Holly-Springs/Specialist-IS-Business-Systems-Analyst_R-252438",
+  "source": "Workday",
+  "rank": 129,
+  "families": [
+   "sdlc",
+   "cloud",
+   "domain"
+  ],
+  "matched": [
+   "Agile",
+   "KPIs",
+   "Power BI",
+   "PowerPoint",
+   "Tableau",
+   "UAT",
+   "acceptance criteria",
+   "audit",
+   "automation",
+   "compliance",
+   "cross-functional",
+   "dashboards",
+   "data integrity",
+   "data quality",
+   "data validation",
+   "data visualization",
+   "defect triage",
+   "healthcare",
+   "integration",
+   "machine learning",
+   "mentoring",
+   "pharmaceutical",
+   "process flows",
+   "requirements elicitation",
+   "stakeholder management",
+   "use cases",
+   "user stories"
+  ],
+  "n_matched": 27,
+  "gaps": [
+   "Databricks"
+  ],
+  "missing_in_doc": []
+ },
+ {
+  "file": "27_State_Street_Alpha_Product_Business_Analyst.docx",
   "company": "State Street",
   "title": "Alpha Product Business Analyst",
   "location": "Boston, Massachusetts",
@@ -323,6 +984,198 @@
    "user stories"
   ],
   "n_matched": 22,
+  "gaps": [],
+  "missing_in_doc": []
+ },
+ {
+  "file": "28_Texas_Instruments_Data_Scientist_Manufacturing_Facilities.docx",
+  "company": "Texas Instruments",
+  "title": "Data Scientist (Manufacturing/Facilities)",
+  "location": "Dallas, TX, United States; Richardson, TX, United States",
+  "start_date": "2026-10-29",
+  "url": "https://edbz.fa.us2.oraclecloud.com",
+  "source": "Oracle Cloud",
+  "rank": 252,
+  "families": [
+   "data"
+  ],
+  "matched": [],
+  "n_matched": 0,
+  "gaps": [],
+  "missing_in_doc": []
+ },
+ {
+  "file": "29_Leidos_Holdings_Applied_Data_Scientist_Performance_Management.docx",
+  "company": "Leidos Holdings",
+  "title": "Applied Data Scientist \u2013 Performance Management & AI Solutions",
+  "location": "6314 Remote/Teleworker US",
+  "start_date": "2026-10-29",
+  "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Applied-Data-Scientist---Performance-Management---AI-Solutions_R-00194542",
+  "source": "Workday",
+  "rank": 260,
+  "families": [
+   "cloud",
+   "sdlc",
+   "stats"
+  ],
+  "matched": [
+   "Python",
+   "SQL",
+   "automation",
+   "data pipelines",
+   "documentation",
+   "forecasting",
+   "integration",
+   "machine learning",
+   "root cause analysis",
+   "stakeholder management",
+   "use cases"
+  ],
+  "n_matched": 11,
+  "gaps": [
+   "Security clearance"
+  ],
+  "missing_in_doc": []
+ },
+ {
+  "file": "30_Ryder_System_Data_Analyst_III.docx",
+  "company": "Ryder System",
+  "title": "Data Analyst III",
+  "location": "CAN - Remote NS",
+  "start_date": "2026-10-29",
+  "url": "https://ryder.wd5.myworkdayjobs.com/RyderCareers/job/CAN---Remote-NS/Data-Analyst-III_R188201",
+  "source": "Workday",
+  "rank": 346,
+  "families": [
+   "data",
+   "cloud",
+   "domain"
+  ],
+  "matched": [
+   "Agile",
+   "ETL",
+   "Power BI",
+   "SQL",
+   "Tableau",
+   "ad hoc reporting",
+   "cloud",
+   "compliance",
+   "dashboards",
+   "data visualization",
+   "integration",
+   "migration",
+   "reporting",
+   "supply chain",
+   "use cases"
+  ],
+  "n_matched": 15,
+  "gaps": [
+   "Alteryx",
+   "C#"
+  ],
+  "missing_in_doc": []
+ },
+ {
+  "file": "31_Analog_Devices_Senior_HRIS_Analytics_Analyst.docx",
+  "company": "Analog Devices",
+  "title": "Senior HRIS & Analytics Analyst",
+  "location": "US, MA, Wilmington",
+  "start_date": "2026-10-29",
+  "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Data-Governance---Dashboard-Analytics_R266916",
+  "source": "Workday",
+  "rank": 396,
+  "families": [
+   "data",
+   "cloud",
+   "gov"
+  ],
+  "matched": [
+   "Excel",
+   "Power BI",
+   "SQL",
+   "Snowflake",
+   "automation",
+   "cloud",
+   "compliance",
+   "dashboards",
+   "data integrity",
+   "data pipelines",
+   "data quality",
+   "data visualization",
+   "healthcare",
+   "integration",
+   "machine learning",
+   "reporting",
+   "stakeholder management",
+   "statistical analysis"
+  ],
+  "n_matched": 18,
+  "gaps": [],
+  "missing_in_doc": []
+ },
+ {
+  "file": "32_Workday_Sr_Business_Systems_Analyst_Client_Platforms.docx",
+  "company": "Workday",
+  "title": "Sr Business Systems Analyst (Client Platforms)",
+  "location": "USA, CA, Pleasanton",
+  "start_date": "2026-10-29",
+  "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Senior-BSA-Client-Platforms_JR-0110607-1",
+  "source": "Workday",
+  "rank": 430,
+  "families": [
+   "sdlc",
+   "cloud",
+   "data"
+  ],
+  "matched": [
+   "Agile",
+   "Scrum",
+   "UAT",
+   "automation",
+   "business requirements",
+   "compliance",
+   "cross-functional",
+   "data validation",
+   "documentation",
+   "healthcare",
+   "integration",
+   "machine learning",
+   "mentoring",
+   "reporting",
+   "self-service",
+   "stakeholder management",
+   "user stories"
+  ],
+  "n_matched": 17,
+  "gaps": [],
+  "missing_in_doc": []
+ },
+ {
+  "file": "33_CACI_International_Financial_Management_Systems_Analyst.docx",
+  "company": "CACI International",
+  "title": "Financial Management Systems Analyst",
+  "location": "Remote (Any State)",
+  "start_date": "2026-10-29",
+  "url": "https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Senior-Business-Systems-Analyst_333509",
+  "source": "Workday",
+  "rank": 459,
+  "families": [
+   "gov",
+   "sdlc",
+   "domain"
+  ],
+  "matched": [
+   "Agile",
+   "audit",
+   "compliance",
+   "financial reporting",
+   "healthcare",
+   "integration",
+   "reconciliation",
+   "reporting",
+   "stakeholder management"
+  ],
+  "n_matched": 9,
   "gaps": [],
   "missing_in_doc": []
  }

@@ -1,0 +1,1020 @@
+[
+ {
+  "rank": 301,
+  "name": "Diamondback Energy"
+ },
+ {
+  "rank": 302,
+  "name": "EchoStar",
+  "oracle_host": "efgz-dev2.fa.us6.oraclecloud.com",
+  "oracle_site": "CX_1"
+ },
+ {
+  "rank": 303,
+  "name": "Textron"
+ },
+ {
+  "rank": 304,
+  "name": "Expedia Group"
+ },
+ {
+  "rank": 305,
+  "name": "W.R. Berkley"
+ },
+ {
+  "rank": 306,
+  "name": "Xcel Energy",
+  "workday": [
+   "xcelenergy",
+   "wd1",
+   "External"
+  ]
+ },
+ {
+  "rank": 307,
+  "name": "FirstEnergy"
+ },
+ {
+  "rank": 308,
+  "name": "Erie Insurance Group"
+ },
+ {
+  "rank": 309,
+  "name": "First Citizens BancShares"
+ },
+ {
+  "rank": 310,
+  "name": "Blackstone"
+ },
+ {
+  "rank": 311,
+  "name": "Fidelity National Financial"
+ },
+ {
+  "rank": 312,
+  "name": "Otis Worldwide",
+  "workday": [
+   "otis",
+   "wd504",
+   "REC_Ext_Gateway"
+  ]
+ },
+ {
+  "rank": 313,
+  "name": "Amentum Holdings",
+  "workday": [
+   "pae",
+   "wd1",
+   "PAE_AntarcticSupportContract"
+  ]
+ },
+ {
+  "rank": 314,
+  "name": "Regeneron Pharmaceuticals"
+ },
+ {
+  "rank": 315,
+  "name": "Estee Lauder"
+ },
+ {
+  "rank": 316,
+  "name": "BorgWarner"
+ },
+ {
+  "rank": 317,
+  "name": "Northern Trust",
+  "workday": [
+   "ntrs",
+   "wd1",
+   "northerntrust"
+  ]
+ },
+ {
+  "rank": 318,
+  "name": "Viatris",
+  "workday": [
+   "viatris",
+   "wd5",
+   "External"
+  ]
+ },
+ {
+  "rank": 319,
+  "name": "MasTec"
+ },
+ {
+  "rank": 320,
+  "name": "Reliance"
+ },
+ {
+  "rank": 321,
+  "name": "Western & Southern Financial Group"
+ },
+ {
+  "rank": 322,
+  "name": "Alaska Air Group"
+ },
+ {
+  "rank": 323,
+  "name": "BrightSpring Health Services"
+ },
+ {
+  "rank": 324,
+  "name": "CSX"
+ },
+ {
+  "rank": 325,
+  "name": "LKQ"
+ },
+ {
+  "rank": 326,
+  "name": "Labcorp Holdings",
+  "phenom_host": "careers.labcorp.com",
+  "workday": [
+   "labcorp",
+   "wd1",
+   "External"
+  ]
+ },
+ {
+  "rank": 327,
+  "name": "Arthur J. Gallagher"
+ },
+ {
+  "rank": 328,
+  "name": "Venture Global"
+ },
+ {
+  "rank": 329,
+  "name": "DoorDash"
+ },
+ {
+  "rank": 330,
+  "name": "Sempra"
+ },
+ {
+  "rank": 331,
+  "name": "DaVita",
+  "phenom_host": "careers.davita.com"
+ },
+ {
+  "rank": 332,
+  "name": "Eversource Energy"
+ },
+ {
+  "rank": 333,
+  "name": "ServiceNow"
+ },
+ {
+  "rank": 334,
+  "name": "M&T Bank"
+ },
+ {
+  "rank": 335,
+  "name": "Henry Schein"
+ },
+ {
+  "rank": 336,
+  "name": "GXO Logistics"
+ },
+ {
+  "rank": 337,
+  "name": "Ball"
+ },
+ {
+  "rank": 338,
+  "name": "Unum Group",
+  "workday": [
+   "unum",
+   "wd1",
+   "External"
+  ]
+ },
+ {
+  "rank": 339,
+  "name": "Las Vegas Sands"
+ },
+ {
+  "rank": 340,
+  "name": "Entergy"
+ },
+ {
+  "rank": 341,
+  "name": "Fifth Third Bancorp"
+ },
+ {
+  "rank": 342,
+  "name": "Graybar Electric"
+ },
+ {
+  "rank": 343,
+  "name": "DXC Technology",
+  "workday": [
+   "dxctechnology",
+   "wd1",
+   "DXCJobs"
+  ]
+ },
+ {
+  "rank": 344,
+  "name": "Alcoa",
+  "workday": [
+   "alcoa",
+   "wd5",
+   "Careers"
+  ]
+ },
+ {
+  "rank": 345,
+  "name": "Assurant",
+  "workday": [
+   "assurant",
+   "wd1",
+   "Assurant_Careers"
+  ]
+ },
+ {
+  "rank": 346,
+  "name": "Ryder System",
+  "workday": [
+   "ryder",
+   "wd5",
+   "RyderCareers"
+  ]
+ },
+ {
+  "rank": 347,
+  "name": "Intercontinental Exchange"
+ },
+ {
+  "rank": 348,
+  "name": "Cincinnati Financial"
+ },
+ {
+  "rank": 349,
+  "name": "Chewy",
+  "phenom_host": "careers.chewy.com",
+  "workday": [
+   "chewy",
+   "wd5",
+   "External"
+  ]
+ },
+ {
+  "rank": 350,
+  "name": "Community Health Systems"
+ },
+ {
+  "rank": 351,
+  "name": "Huntington Bancshares"
+ },
+ {
+  "rank": 352,
+  "name": "Huntington Ingalls Industries"
+ },
+ {
+  "rank": 353,
+  "name": "Wayfair"
+ },
+ {
+  "rank": 354,
+  "name": "Lumen Technologies",
+  "eightfold": "app"
+ },
+ {
+  "rank": 355,
+  "name": "Ulta Beauty"
+ },
+ {
+  "rank": 356,
+  "name": "Crown Holdings"
+ },
+ {
+  "rank": 357,
+  "name": "Airbnb"
+ },
+ {
+  "rank": 358,
+  "name": "AES"
+ },
+ {
+  "rank": 359,
+  "name": "Norfolk Southern"
+ },
+ {
+  "rank": 360,
+  "name": "Public Service Enterprise Group"
+ },
+ {
+  "rank": 361,
+  "name": "KLA",
+  "workday": [
+   "kla",
+   "wd1",
+   "Search"
+  ]
+ },
+ {
+  "rank": 362,
+  "name": "Expand Energy"
+ },
+ {
+  "rank": 363,
+  "name": "Hormel Foods",
+  "oracle_host": "ekkh.fa.us2.oraclecloud.com",
+  "oracle_site": "CX_1"
+ },
+ {
+  "rank": 364,
+  "name": "Darden Restaurants"
+ },
+ {
+  "rank": 365,
+  "name": "Citizens Financial Group"
+ },
+ {
+  "rank": 366,
+  "name": "Mosaic"
+ },
+ {
+  "rank": 367,
+  "name": "Hilton Worldwide Holdings",
+  "oracle_host": "efet.fa.us2.oraclecloud.com",
+  "oracle_site": "CX_1"
+ },
+ {
+  "rank": 368,
+  "name": "Air Products & Chemicals"
+ },
+ {
+  "rank": 369,
+  "name": "Jacobs Solutions"
+ },
+ {
+  "rank": 370,
+  "name": "Vertex Pharmaceuticals"
+ },
+ {
+  "rank": 371,
+  "name": "J.B. Hunt Transport Services"
+ },
+ {
+  "rank": 372,
+  "name": "Booz Allen Hamilton"
+ },
+ {
+  "rank": 373,
+  "name": "Williams",
+  "workday": [
+   "williams",
+   "wd5",
+   "External"
+  ]
+ },
+ {
+  "rank": 374,
+  "name": "Chipotle Mexican Grill"
+ },
+ {
+  "rank": 375,
+  "name": "Yum China Holdings"
+ },
+ {
+  "rank": 376,
+  "name": "Oscar Health"
+ },
+ {
+  "rank": 377,
+  "name": "Hershey"
+ },
+ {
+  "rank": 378,
+  "name": "Motorola Solutions"
+ },
+ {
+  "rank": 379,
+  "name": "Equitable Holdings"
+ },
+ {
+  "rank": 380,
+  "name": "Avis Budget Group"
+ },
+ {
+  "rank": 381,
+  "name": "Conagra Brands"
+ },
+ {
+  "rank": 382,
+  "name": "Baxter International",
+  "workday": [
+   "baxter",
+   "wd1",
+   "baxter"
+  ]
+ },
+ {
+  "rank": 383,
+  "name": "Burlington Stores"
+ },
+ {
+  "rank": 384,
+  "name": "Caesars Entertainment"
+ },
+ {
+  "rank": 385,
+  "name": "Owens Corning"
+ },
+ {
+  "rank": 386,
+  "name": "KeyCorp"
+ },
+ {
+  "rank": 387,
+  "name": "Thrivent Financial",
+  "workday": [
+   "thrivent",
+   "wd5",
+   "external"
+  ]
+ },
+ {
+  "rank": 388,
+  "name": "Westlake"
+ },
+ {
+  "rank": 389,
+  "name": "Westinghouse Air Brake"
+ },
+ {
+  "rank": 390,
+  "name": "Molson Coors Beverage"
+ },
+ {
+  "rank": 391,
+  "name": "Lululemon athletica"
+ },
+ {
+  "rank": 392,
+  "name": "FM"
+ },
+ {
+  "rank": 393,
+  "name": "Ebay"
+ },
+ {
+  "rank": 394,
+  "name": "Expeditors International"
+ },
+ {
+  "rank": 395,
+  "name": "Quest Diagnostics",
+  "oracle_host": "hdox.fa.us6.oraclecloud.com",
+  "oracle_site": "CX_1"
+ },
+ {
+  "rank": 396,
+  "name": "Analog Devices",
+  "workday": [
+   "analogdevices",
+   "wd1",
+   "External"
+  ]
+ },
+ {
+  "rank": 397,
+  "name": "Andersons"
+ },
+ {
+  "rank": 398,
+  "name": "Gold.com"
+ },
+ {
+  "rank": 399,
+  "name": "Toll Brothers"
+ },
+ {
+  "rank": 400,
+  "name": "International Flavors & Fragrances"
+ },
+ {
+  "rank": 401,
+  "name": "Welltower"
+ },
+ {
+  "rank": 402,
+  "name": "Jefferies Financial Group"
+ },
+ {
+  "rank": 403,
+  "name": "Autoliv"
+ },
+ {
+  "rank": 404,
+  "name": "Mohawk Industries"
+ },
+ {
+  "rank": 405,
+  "name": "Delek US Holdings"
+ },
+ {
+  "rank": 406,
+  "name": "Fidelity National Information Services"
+ },
+ {
+  "rank": 407,
+  "name": "Accendra Health",
+  "workday": [
+   "accendra",
+   "wd504",
+   "AccendraCareers"
+  ]
+ },
+ {
+  "rank": 408,
+  "name": "American Tower",
+  "oracle_host": "hdsn.fa.us6.oraclecloud.com",
+  "oracle_site": "CX_1"
+ },
+ {
+  "rank": 409,
+  "name": "NVR"
+ },
+ {
+  "rank": 410,
+  "name": "Interactive Brokers Group"
+ },
+ {
+  "rank": 411,
+  "name": "Oshkosh"
+ },
+ {
+  "rank": 412,
+  "name": "Cintas"
+ },
+ {
+  "rank": 413,
+  "name": "Campbells"
+ },
+ {
+  "rank": 414,
+  "name": "Vertiv Holdings",
+  "oracle_host": "egup.fa.us2.oraclecloud.com",
+  "oracle_site": "CX_1"
+ },
+ {
+  "rank": 415,
+  "name": "Global Payments"
+ },
+ {
+  "rank": 416,
+  "name": "Constellation Brands"
+ },
+ {
+  "rank": 417,
+  "name": "AGCO"
+ },
+ {
+  "rank": 418,
+  "name": "Intuitive Surgical"
+ },
+ {
+  "rank": 419,
+  "name": "Ace Hardware"
+ },
+ {
+  "rank": 420,
+  "name": "Dana"
+ },
+ {
+  "rank": 421,
+  "name": "Biogen",
+  "workday": [
+   "biibhr",
+   "wd3",
+   "external"
+  ]
+ },
+ {
+  "rank": 422,
+  "name": "News Corp"
+ },
+ {
+  "rank": 423,
+  "name": "Concentrix",
+  "workday": [
+   "cnx",
+   "wd1",
+   "external_global"
+  ]
+ },
+ {
+  "rank": 424,
+  "name": "WEC Energy Group"
+ },
+ {
+  "rank": 425,
+  "name": "VF"
+ },
+ {
+  "rank": 426,
+  "name": "Seaboard"
+ },
+ {
+  "rank": 427,
+  "name": "Icahn Enterprises"
+ },
+ {
+  "rank": 428,
+  "name": "Regions Financial",
+  "phenom_host": "careers.regions.com"
+ },
+ {
+  "rank": 429,
+  "name": "Thor Industries"
+ },
+ {
+  "rank": 430,
+  "name": "Workday",
+  "workday": [
+   "workday",
+   "wd5",
+   "Workday"
+  ]
+ },
+ {
+  "rank": 431,
+  "name": "Celanese"
+ },
+ {
+  "rank": 432,
+  "name": "Western Digital",
+  "smartrecruiters": "WesternDigital"
+ },
+ {
+  "rank": 433,
+  "name": "QVC Group",
+  "workday": [
+   "qvc",
+   "wd5",
+   "QRG"
+  ]
+ },
+ {
+  "rank": 434,
+  "name": "Zoetis",
+  "workday": [
+   "zoetis",
+   "wd5",
+   "zoetis"
+  ]
+ },
+ {
+  "rank": 435,
+  "name": "CenterPoint Energy"
+ },
+ {
+  "rank": 436,
+  "name": "Equinix",
+  "workday": [
+   "equinix",
+   "wd1",
+   "External"
+  ]
+ },
+ {
+  "rank": 437,
+  "name": "Palo Alto Networks",
+  "workday": [
+   "paloaltonetworks",
+   "wd5",
+   "panwexternalcareers"
+  ]
+ },
+ {
+  "rank": 438,
+  "name": "APA"
+ },
+ {
+  "rank": 439,
+  "name": "Old Republic International"
+ },
+ {
+  "rank": 440,
+  "name": "Comfort Systems USA"
+ },
+ {
+  "rank": 441,
+  "name": "JetBlue Airways"
+ },
+ {
+  "rank": 442,
+  "name": "PPL"
+ },
+ {
+  "rank": 443,
+  "name": "Xylem",
+  "workday": [
+   "xylem",
+   "wd5",
+   "xylem-careers"
+  ]
+ },
+ {
+  "rank": 444,
+  "name": "Arista Networks"
+ },
+ {
+  "rank": 445,
+  "name": "Packaging Corp of America"
+ },
+ {
+  "rank": 446,
+  "name": "PVH",
+  "phenom_host": "careers.pvh.com"
+ },
+ {
+  "rank": 447,
+  "name": "Ovintiv",
+  "workday": [
+   "ovintiv",
+   "wd3",
+   "ovintivcareers"
+  ]
+ },
+ {
+  "rank": 448,
+  "name": "Avery Dennison"
+ },
+ {
+  "rank": 449,
+  "name": "TransDigm Group"
+ },
+ {
+  "rank": 450,
+  "name": "Sprouts Farmers Market"
+ },
+ {
+  "rank": 451,
+  "name": "Prologis",
+  "workday": [
+   "prologis",
+   "wd5",
+   "Prologis_External_Careers"
+  ]
+ },
+ {
+  "rank": 452,
+  "name": "Franklin Resources"
+ },
+ {
+  "rank": 453,
+  "name": "Eastman Chemical"
+ },
+ {
+  "rank": 454,
+  "name": "ABM Industries"
+ },
+ {
+  "rank": 455,
+  "name": "NOV",
+  "oracle_host": "egay.fa.us6.oraclecloud.com",
+  "oracle_site": "CX_1"
+ },
+ {
+  "rank": 456,
+  "name": "J.M. Smucker",
+  "workday": [
+   "smucker",
+   "wd5",
+   "US_External_Careers"
+  ]
+ },
+ {
+  "rank": 457,
+  "name": "Securian Financial Group",
+  "workday": [
+   "hq",
+   "wd12",
+   "Securian_External"
+  ]
+ },
+ {
+  "rank": 458,
+  "name": "EQT",
+  "greenhouse": "embed"
+ },
+ {
+  "rank": 459,
+  "name": "CACI International",
+  "eightfold": "app",
+  "workday": [
+   "caci",
+   "wd1",
+   "External"
+  ]
+ },
+ {
+  "rank": 460,
+  "name": "Graphic Packaging Holding"
+ },
+ {
+  "rank": 461,
+  "name": "Advance Auto Parts",
+  "phenom_host": "jobs.advanceautoparts.com"
+ },
+ {
+  "rank": 462,
+  "name": "Optimum Communications"
+ },
+ {
+  "rank": 463,
+  "name": "Sirius XM Holdings"
+ },
+ {
+  "rank": 464,
+  "name": "CMS Energy"
+ },
+ {
+  "rank": 465,
+  "name": "Hertz Global Holdings"
+ },
+ {
+  "rank": 466,
+  "name": "Ameren",
+  "workday": [
+   "ameren",
+   "wd1",
+   "External"
+  ]
+ },
+ {
+  "rank": 467,
+  "name": "Rockwell Automation",
+  "workday": [
+   "rockwellautomation",
+   "wd1",
+   "External_Rockwell_Automation"
+  ]
+ },
+ {
+  "rank": 468,
+  "name": "Solventum"
+ },
+ {
+  "rank": 469,
+  "name": "Monster Beverage"
+ },
+ {
+  "rank": 470,
+  "name": "Nasdaq",
+  "workday": [
+   "nasdaq",
+   "wd1",
+   "Global_External_Site"
+  ]
+ },
+ {
+  "rank": 471,
+  "name": "Howmet Aerospace",
+  "oracle_host": "fa-exty-saasfaprod1.fa.ocs.oraclecloud.com",
+  "oracle_site": "CX_1"
+ },
+ {
+  "rank": 472,
+  "name": "Insight Enterprises"
+ },
+ {
+  "rank": 473,
+  "name": "Zimmer Biomet Holdings",
+  "phenom_host": "careers.zimmerbiomet.com"
+ },
+ {
+  "rank": 474,
+  "name": "Yum Brands"
+ },
+ {
+  "rank": 475,
+  "name": "Fastenal"
+ },
+ {
+  "rank": 476,
+  "name": "Marvell Technology",
+  "workday": [
+   "marvell",
+   "wd1",
+   "MarvellCareers"
+  ]
+ },
+ {
+  "rank": 477,
+  "name": "Voya Financial",
+  "workday": [
+   "godirect",
+   "wd5",
+   "voya_jobs"
+  ]
+ },
+ {
+  "rank": 478,
+  "name": "American Financial Group"
+ },
+ {
+  "rank": 479,
+  "name": "Post Holdings"
+ },
+ {
+  "rank": 480,
+  "name": "XPO"
+ },
+ {
+  "rank": 481,
+  "name": "DuPont",
+  "phenom_host": "careers.dupont.com"
+ },
+ {
+  "rank": 482,
+  "name": "Sanmina"
+ },
+ {
+  "rank": 483,
+  "name": "Taylor Morrison Home"
+ },
+ {
+  "rank": 484,
+  "name": "Dover"
+ },
+ {
+  "rank": 485,
+  "name": "Vulcan Materials",
+  "oracle_host": "vmcfa-prod-iccgjb.fa.ocs.oraclecloud.com",
+  "oracle_site": "CX_1"
+ },
+ {
+  "rank": 486,
+  "name": "APi Group"
+ },
+ {
+  "rank": 487,
+  "name": "Roper Technologies"
+ },
+ {
+  "rank": 488,
+  "name": "KBR"
+ },
+ {
+  "rank": 489,
+  "name": "Sonoco Products",
+  "workday": [
+   "sonoco",
+   "wd1",
+   "CorporateCareers"
+  ]
+ },
+ {
+  "rank": 490,
+  "name": "Williams-Sonoma"
+ },
+ {
+  "rank": 491,
+  "name": "Commercial Metals"
+ },
+ {
+  "rank": 492,
+  "name": "Moodys"
+ },
+ {
+  "rank": 493,
+  "name": "Continental Resources"
+ },
+ {
+  "rank": 494,
+  "name": "Ingersoll Rand"
+ },
+ {
+  "rank": 495,
+  "name": "Core & Main"
+ },
+ {
+  "rank": 496,
+  "name": "Coterra Energy"
+ },
+ {
+  "rank": 497,
+  "name": "Primoris Services"
+ },
+ {
+  "rank": 498,
+  "name": "Masco",
+  "phenom_host": "jobs.masco.com"
+ },
+ {
+  "rank": 499,
+  "name": "Somnigroup International"
+ },
+ {
+  "rank": 500,
+  "name": "Resideo Technologies",
+  "oracle_host": "ehtl.fa.us6.oraclecloud.com",
+  "oracle_site": "CX_1"
+ }
+]
