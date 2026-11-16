@@ -825,6 +825,7 @@ nav {
 
 .travel-photos {
   display: grid;
+  align-items: start;
   grid-template-columns: 1.4fr 1fr 1fr;
   gap: 1.25rem;
   align-items: start;
@@ -847,7 +848,8 @@ nav {
 .t-photo:hover img { transform: scale(1.04); }
 
 .t-photo.tall img { height: 420px; }
-.t-photo.short img { height: 300px; margin-top: 60px; }
+.t-photo.short { margin-top: 60px; }
+.t-photo.short img { height: 300px; }
 .t-photo.mid img { height: 360px; }
 
 .t-label {
@@ -1136,14 +1138,14 @@ footer {
 
     <div class="hero-photos">
       <div class="hero-photo-frame side off">
-        <img loading="lazy" src="images/zion-national-park.jpg" width="170" height="220" alt="Zion National Park">
+        <img loading="lazy" src="images/zion-couple.jpg" width="170" height="220" alt="Ahmad and his wife at Zion National Park">
         <div class="photo-label">Zion, Utah</div>
       </div>
       <div class="hero-photo-frame main">
         <img src="images/ahmad-anis.jpg" width="220" height="280" alt="Ahmad Anis">
       </div>
       <div class="hero-photo-frame side">
-        <img loading="lazy" src="images/alaska.jpg" width="170" height="220" alt="Alaska">
+        <img loading="lazy" src="images/alaska-boat.jpg" width="170" height="220" alt="Ahmad on a boat in Alaska">
         <div class="photo-label">Alaska</div>
       </div>
     </div>
@@ -1444,15 +1446,15 @@ footer {
 
     <div class="travel-photos reveal">
       <div class="t-photo tall">
-        <img loading="lazy" src="images/zion-national-park.jpg" alt="Zion National Park">
+        <img loading="lazy" src="images/zion-couple.jpg" alt="Ahmad and his wife at Zion National Park">
         <div class="t-label">Zion · Utah</div>
       </div>
       <div class="t-photo short">
-        <img loading="lazy" src="images/alaska.jpg" alt="Alaska">
+        <img loading="lazy" src="images/alaska-boat.jpg" alt="Ahmad on a glacier boat in Kenai Fjords, Alaska">
         <div class="t-label">Kenai Fjords · Alaska</div>
       </div>
       <div class="t-photo mid">
-        <img loading="lazy" src="images/white-mountains.jpg" alt="White Mountains">
+        <img loading="lazy" src="images/white-mountains-lake.jpg" alt="Ahmad above a lake in the White Mountains">
         <div class="t-label">White Mountains · NH</div>
       </div>
     </div>
@@ -1464,14 +1466,14 @@ footer {
   <div class="about-grid">
     <div class="about-photos reveal">
       <div class="a-photo tall">
-        <img loading="lazy" src="images/ahmad-and-family.jpg" alt="Ahmad and family">
+        <img loading="lazy" src="images/zion-couple.jpg" alt="Ahmad and his wife">
       </div>
       <div style="display:flex;flex-direction:column;gap:1rem;">
         <div class="a-photo short">
-          <img loading="lazy" src="images/ahmad-s-cat.jpg" alt="Ahmad's cat">
+          <img loading="lazy" src="images/cat-selfie.jpg" alt="Ahmad with his white cat">
         </div>
         <div class="a-photo short">
-          <img loading="lazy" src="images/white-mountains.jpg" alt="White Mountains">
+          <img loading="lazy" src="images/family-cat-selfie.jpg" alt="Ahmad, his wife and their white cat">
         </div>
       </div>
     </div>
